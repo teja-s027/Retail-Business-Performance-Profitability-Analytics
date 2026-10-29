@@ -1,0 +1,38 @@
+-- Power BI DAX Measures — Retail Profitability Dashboard
+-- Fact table: orders | Dimensions: customers, products, stores, returns
+
+Total Sales = SUM ( orders[Sales] )
+
+Total Profit = SUM ( orders[Profit] )
+
+Total Cost = SUM ( orders[Cost] )
+
+Profit Margin % =
+DIVIDE ( [Total Profit], [Total Sales] )   -- format as %
+
+Total Orders = DISTINCTCOUNT ( orders[OrderID] )
+
+Total Order Lines = COUNTROWS ( orders )
+
+Average Order Value =
+DIVIDE ( [Total Sales], [Total Orders] )
+
+Loss-Making Lines =
+CALCULATE ( COUNTROWS ( orders ), orders[Profit] < 0 )
+
+Loss-Making Lines % =
+DIVIDE ( [Loss-Making Lines], [Total Order Lines] )
+
+Total Returns = COUNTROWS ( returns )
+
+Return Rate % =
+DIVIDE ( [Total Returns], [Total Order Lines] )
+
+Sales YoY % =
+VAR Curr = [Total Sales]
+VAR Prev = CALCULATE ( [Total Sales], SAMEPERIODLASTYEAR ( 'Calendar'[Date] ) )
+RETURN DIVIDE ( Curr - Prev, Prev )
+
+High-Discount Sales =
+CALCULATE ( [Total Sales], orders[Discount] > 0.20 )
+-- Use with [Total Profit]: shows high-discount sales earn ~0 profit

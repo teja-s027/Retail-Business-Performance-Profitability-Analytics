@@ -1,0 +1,43 @@
+TableName,ColumnName,DataType,Description
+orders,OrderLineID,VARCHAR(10),Unique ID for each order line (primary key)
+orders,OrderID,VARCHAR(10),Order ID - can repeat across multiple lines of same order
+orders,OrderDate,DATE,Date order was placed (YYYY-MM-DD)
+orders,ShipDate,DATE,Date order shipped - on/after OrderDate. Equals OrderDate for Pending/Cancelled
+orders,CustomerID,VARCHAR(8),Foreign key to customers.CustomerID
+orders,StoreID,VARCHAR(7),Foreign key to stores.StoreID
+orders,ProductID,VARCHAR(8),Foreign key to products.ProductID
+orders,Quantity,INT,Units purchased in this line
+orders,UnitPrice,"DECIMAL(10,2)",Selling price per unit at time of order
+orders,Discount,"DECIMAL(5,2)",Discount fraction between 0 and 1 (e.g. 0.10 = 10%)
+orders,Sales,"DECIMAL(12,2)",Quantity x UnitPrice x (1 - Discount)
+orders,Cost,"DECIMAL(12,2)",Quantity x product UnitCost
+orders,Profit,"DECIMAL(12,2)",Sales - Cost
+orders,PaymentMethod,VARCHAR(20),UPI / Credit Card / Debit Card / Net Banking / Cash / Wallet
+orders,OrderStatus,VARCHAR(15),Delivered / Shipped / Returned / Cancelled / Pending
+customers,CustomerID,VARCHAR(8),Unique customer ID (primary key)
+customers,CustomerName,VARCHAR(100),Synthetic customer name - not a real person
+customers,Gender,VARCHAR(10),Female / Male / Other
+customers,Age,INT,Customer age in years (18-70)
+customers,City,VARCHAR(50),Customer city (India)
+customers,State,VARCHAR(50),Customer state
+customers,Country,VARCHAR(50),Country - India for all rows
+customers,SignupDate,DATE,Date customer signed up
+customers,CustomerSegment,VARCHAR(15),Regular / Premium / VIP / New
+products,ProductID,VARCHAR(8),Unique product ID (primary key)
+products,ProductName,VARCHAR(150),Synthetic product name
+products,Category,VARCHAR(50),Product category (8 categories)
+products,SubCategory,VARCHAR(50),Product sub-category
+products,UnitCost,"DECIMAL(10,2)",Cost per unit to the business
+products,SellingPrice,"DECIMAL(10,2)",Listed selling price per unit
+products,Brand,VARCHAR(50),Brand name
+stores,StoreID,VARCHAR(7),Unique store ID (primary key)
+stores,StoreName,VARCHAR(100),Store name including city
+stores,City,VARCHAR(50),Store city
+stores,State,VARCHAR(50),Store state
+stores,StoreType,VARCHAR(15),Flagship / Standard / Outlet / Online
+returns,ReturnID,VARCHAR(8),Unique return ID (primary key)
+returns,OrderID,VARCHAR(10),Foreign key to orders.OrderID
+returns,ProductID,VARCHAR(8),Foreign key to products.ProductID
+returns,ReturnDate,DATE,Date product was returned
+returns,ReturnQuantity,INT,Units returned - never exceeds purchased quantity for that order/product
+returns,ReturnReason,VARCHAR(50),Reason for return

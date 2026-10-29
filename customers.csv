@@ -1,0 +1,1001 @@
+CustomerID,CustomerName,Gender,Age,City,State,Country,SignupDate,CustomerSegment
+CUST1001,Leena Reddy,Female,24,Bengaluru,Karnataka,India,2022-07-18,Regular
+CUST1002,Prakash Saxena,Female,23,Chandigarh,Chandigarh,India,2021-06-28,Premium
+CUST1003,Manoj Gupta,Female,59,Indore,Madhya Pradesh,India,2024-05-17,Regular
+CUST1004,Rekha Chopra,Female,18,Kochi,Kerala,India,2022-03-28,Regular
+CUST1005,Tarun Chandra,Female,31,Delhi,Delhi,India,2024-11-30,Regular
+CUST1006,Tarun Singh,Female,40,Pune,Maharashtra,India,2021-07-09,Regular
+CUST1007,Jyoti Rao,Other,42,Mysuru,Karnataka,India,2023-07-30,Regular
+CUST1008,Asha Chopra,Male,54,Kolkata,West Bengal,India,2024-07-11,Premium
+CUST1009,Lakshmi Malhotra,Male,23,Mumbai,Maharashtra,India,2021-04-04,Premium
+CUST1010,Meera Bhatt,Male,41,Pune,Maharashtra,India,2023-02-18,Regular
+CUST1011,Kavya Kumar,Male,61,Surat,Gujarat,India,2022-03-06,Premium
+CUST1012,Mohammed Iyer,Male,28,Patna,Bihar,India,2024-07-24,Regular
+CUST1013,Swati Das,Female,38,Coimbatore,Tamil Nadu,India,2024-08-03,Premium
+CUST1014,Uma Pawar,Male,43,Mysuru,Karnataka,India,2022-04-15,VIP
+CUST1015,Pooja Iyer,Female,59,Hyderabad,Telangana,India,2024-03-07,VIP
+CUST1016,Vidya Das,Female,53,Thiruvananthapuram,Kerala,India,2021-10-20,Regular
+CUST1017,Aisha Rao,Female,32,Visakhapatnam,Andhra Pradesh,India,2023-05-28,VIP
+CUST1018,Gauri Mishra,Male,27,Lucknow,Uttar Pradesh,India,2021-07-06,Premium
+CUST1019,Leena Patel,Female,47,Kochi,Kerala,India,2024-05-06,Regular
+CUST1020,Vinod Rao,Female,52,Chandigarh,Chandigarh,India,2021-01-24,Premium
+CUST1021,Tarun Rao,Female,18,Ahmedabad,Gujarat,India,2021-08-17,Regular
+CUST1022,Seema Kapoor,Male,24,Coimbatore,Tamil Nadu,India,2023-10-23,Premium
+CUST1023,Leena Mehta,Female,28,Indore,Madhya Pradesh,India,2024-06-01,Regular
+CUST1024,Aisha Pawar,Male,25,Indore,Madhya Pradesh,India,2021-01-02,Premium
+CUST1025,Riya Kapoor,Male,23,Kolkata,West Bengal,India,2022-05-06,Regular
+CUST1026,Asha Saxena,Male,26,Lucknow,Uttar Pradesh,India,2021-05-22,New
+CUST1027,Gauri Kulkarni,Male,56,Lucknow,Uttar Pradesh,India,2024-01-31,Regular
+CUST1028,Sneha Nair,Female,60,Chandigarh,Chandigarh,India,2024-11-13,Regular
+CUST1029,Mohammed Kumar,Female,22,Thiruvananthapuram,Kerala,India,2023-11-26,Regular
+CUST1030,Rajesh Sharma,Female,22,Visakhapatnam,Andhra Pradesh,India,2024-02-09,Regular
+CUST1031,Sachin Desai,Female,39,Mysuru,Karnataka,India,2022-04-14,Regular
+CUST1032,Arjun Mishra,Female,26,Chennai,Tamil Nadu,India,2022-07-25,Premium
+CUST1033,Seema Yadav,Male,69,Visakhapatnam,Andhra Pradesh,India,2024-03-26,Regular
+CUST1034,Shreya Nair,Female,44,Pune,Maharashtra,India,2021-07-18,Premium
+CUST1035,Swati Bhatt,Male,21,Mysuru,Karnataka,India,2024-10-11,Premium
+CUST1036,Sanjay Saxena,Female,46,Ahmedabad,Gujarat,India,2021-08-12,Regular
+CUST1037,Gauri Pillai,Male,22,Delhi,Delhi,India,2022-07-25,Regular
+CUST1038,Suresh Chandra,Other,18,Chandigarh,Chandigarh,India,2021-07-20,Regular
+CUST1039,Asha Yadav,Male,43,Chennai,Tamil Nadu,India,2021-12-07,Regular
+CUST1040,Ananya Patel,Female,68,Jaipur,Rajasthan,India,2021-01-05,New
+CUST1041,Swati Mehta,Other,53,Kochi,Kerala,India,2024-11-27,New
+CUST1042,Neha Malhotra,Female,21,Lucknow,Uttar Pradesh,India,2021-11-14,Regular
+CUST1043,Imran Saxena,Female,55,Chandigarh,Chandigarh,India,2021-05-05,Premium
+CUST1044,Varun Mishra,Male,29,Indore,Madhya Pradesh,India,2021-11-19,Regular
+CUST1045,Arjun Menon,Female,54,Mumbai,Maharashtra,India,2024-10-14,VIP
+CUST1046,Nikhil Bose,Female,55,Patna,Bihar,India,2021-03-23,Premium
+CUST1047,Geeta Mishra,Male,33,Ahmedabad,Gujarat,India,2022-06-19,Regular
+CUST1048,Nisha Das,Female,66,Nagpur,Maharashtra,India,2024-10-07,Premium
+CUST1049,Arjun Sharma,Other,22,Thiruvananthapuram,Kerala,India,2024-06-26,New
+CUST1050,Aisha Nair,Female,22,Indore,Madhya Pradesh,India,2022-06-28,Regular
+CUST1051,Nikhil Kumar,Male,37,Kolkata,West Bengal,India,2021-11-20,Regular
+CUST1052,Karthik Chandra,Male,60,Indore,Madhya Pradesh,India,2021-01-17,Premium
+CUST1053,Divya Kapoor,Female,53,Nagpur,Maharashtra,India,2022-06-26,Regular
+CUST1054,Harsh Rao,Female,61,Kolkata,West Bengal,India,2024-05-23,Regular
+CUST1055,Leena Bhatt,Male,21,Coimbatore,Tamil Nadu,India,2023-11-02,Regular
+CUST1056,Asha Desai,Female,26,Kochi,Kerala,India,2022-07-21,Regular
+CUST1057,Leena Rao,Female,18,Delhi,Delhi,India,2023-06-24,Premium
+CUST1058,Farhan Iyer,Female,53,Nagpur,Maharashtra,India,2024-01-23,Regular
+CUST1059,Harsh Pillai,Male,68,Nagpur,Maharashtra,India,2021-03-27,Regular
+CUST1060,Akash Kapoor,Male,40,Surat,Gujarat,India,2022-03-07,Premium
+CUST1061,Uma Chopra,Male,33,Kochi,Kerala,India,2024-06-25,Premium
+CUST1062,Kavya Chandra,Male,39,Delhi,Delhi,India,2023-04-25,Regular
+CUST1063,Shreya Chandra,Male,42,Chennai,Tamil Nadu,India,2022-07-01,Regular
+CUST1064,Akash Bhatt,Male,40,Lucknow,Uttar Pradesh,India,2022-04-01,Regular
+CUST1065,Priya Hegde,Female,39,Chennai,Tamil Nadu,India,2022-04-02,Regular
+CUST1066,Pooja Bhatt,Male,61,Mumbai,Maharashtra,India,2022-07-26,Regular
+CUST1067,Aisha Singh,Female,55,Bengaluru,Karnataka,India,2021-08-25,VIP
+CUST1068,Nisha Verma,Male,38,Pune,Maharashtra,India,2024-05-06,Regular
+CUST1069,Sneha Menon,Male,34,Indore,Madhya Pradesh,India,2021-08-25,Regular
+CUST1070,Akash Malhotra,Male,61,Kochi,Kerala,India,2021-01-04,Regular
+CUST1071,Seema Saxena,Male,39,Hyderabad,Telangana,India,2023-01-16,Regular
+CUST1072,Karthik Singh,Male,38,Pune,Maharashtra,India,2022-09-08,Regular
+CUST1073,Sanjay Malhotra,Female,42,Kolkata,West Bengal,India,2024-02-10,Regular
+CUST1074,Prakash Saxena,Female,18,Delhi,Delhi,India,2024-06-14,Premium
+CUST1075,Priya Mehta,Male,38,Hyderabad,Telangana,India,2023-05-31,Premium
+CUST1076,Swati Shetty,Female,68,Thiruvananthapuram,Kerala,India,2024-10-15,Regular
+CUST1077,Sunita Patel,Male,39,Mumbai,Maharashtra,India,2022-08-05,Regular
+CUST1078,Asha Hegde,Male,27,Chennai,Tamil Nadu,India,2024-10-09,Regular
+CUST1079,Aditi Verma,Male,47,Chennai,Tamil Nadu,India,2023-09-01,Premium
+CUST1080,Shreya Kapoor,Female,43,Visakhapatnam,Andhra Pradesh,India,2022-02-03,Premium
+CUST1081,Nikhil Khan,Female,69,Bengaluru,Karnataka,India,2021-08-07,Premium
+CUST1082,Rekha Mishra,Male,25,Thiruvananthapuram,Kerala,India,2021-04-13,Premium
+CUST1083,Swati Khan,Male,38,Thiruvananthapuram,Kerala,India,2024-09-29,Regular
+CUST1084,Tarun Kapoor,Male,45,Thiruvananthapuram,Kerala,India,2024-06-08,VIP
+CUST1085,Deepak Shetty,Male,58,Delhi,Delhi,India,2023-08-31,Regular
+CUST1086,Pooja Pawar,Female,22,Indore,Madhya Pradesh,India,2023-09-20,Premium
+CUST1087,Sachin Mehta,Male,23,Chennai,Tamil Nadu,India,2022-07-11,Regular
+CUST1088,Gauri Khan,Male,22,Chennai,Tamil Nadu,India,2023-02-24,Premium
+CUST1089,Shreya Pillai,Female,44,Ahmedabad,Gujarat,India,2024-01-17,Regular
+CUST1090,Rohan Kapoor,Male,54,Visakhapatnam,Andhra Pradesh,India,2024-11-25,Regular
+CUST1091,Rohan Joshi,Female,44,Bengaluru,Karnataka,India,2022-12-22,Regular
+CUST1092,Aisha Saxena,Male,35,Chandigarh,Chandigarh,India,2024-05-20,VIP
+CUST1093,Sneha Joshi,Male,43,Bengaluru,Karnataka,India,2023-03-08,Regular
+CUST1094,Seema Patel,Male,43,Thiruvananthapuram,Kerala,India,2021-09-19,New
+CUST1095,Imran Bose,Female,47,Bengaluru,Karnataka,India,2021-06-21,Premium
+CUST1096,Kiran Verma,Female,39,Coimbatore,Tamil Nadu,India,2023-02-16,Regular
+CUST1097,Tarun Kapoor,Male,34,Jaipur,Rajasthan,India,2022-07-24,Premium
+CUST1098,Asha Joshi,Male,32,Bengaluru,Karnataka,India,2024-01-10,Regular
+CUST1099,Mohammed Iyer,Female,19,Mysuru,Karnataka,India,2021-03-05,New
+CUST1100,Karthik Khan,Female,31,Chennai,Tamil Nadu,India,2021-09-16,Regular
+CUST1101,Swati Malhotra,Male,65,Coimbatore,Tamil Nadu,India,2023-01-26,Regular
+CUST1102,Sachin Reddy,Female,37,Delhi,Delhi,India,2022-09-30,Regular
+CUST1103,Geeta Kulkarni,Female,55,Jaipur,Rajasthan,India,2023-03-24,New
+CUST1104,Rekha Hegde,Female,61,Chennai,Tamil Nadu,India,2021-07-28,Premium
+CUST1105,Jyoti Chandra,Female,45,Pune,Maharashtra,India,2024-03-05,Premium
+CUST1106,Neha Kumar,Female,44,Mumbai,Maharashtra,India,2023-11-03,Premium
+CUST1107,Vidya Reddy,Male,63,Kochi,Kerala,India,2023-01-12,Premium
+CUST1108,Harsh Pillai,Female,69,Delhi,Delhi,India,2023-12-05,New
+CUST1109,Aisha Pawar,Male,35,Lucknow,Uttar Pradesh,India,2023-08-11,Regular
+CUST1110,Rahul Bhatt,Female,66,Chennai,Tamil Nadu,India,2021-06-27,Regular
+CUST1111,Swati Bose,Female,38,Patna,Bihar,India,2024-09-30,Regular
+CUST1112,Kiran Joshi,Female,56,Hyderabad,Telangana,India,2022-12-28,Premium
+CUST1113,Rekha Kapoor,Male,23,Coimbatore,Tamil Nadu,India,2024-02-13,Regular
+CUST1114,Nikhil Saxena,Female,48,Kochi,Kerala,India,2023-09-28,Premium
+CUST1115,Mohammed Malhotra,Female,32,Lucknow,Uttar Pradesh,India,2023-07-07,Premium
+CUST1116,Sanjay Malhotra,Female,53,Chennai,Tamil Nadu,India,2022-09-20,Premium
+CUST1117,Vinod Kumar,Male,35,Kochi,Kerala,India,2024-02-02,Regular
+CUST1118,Priya Rao,Female,65,Chennai,Tamil Nadu,India,2021-09-05,Premium
+CUST1119,Aisha Pawar,Male,64,Delhi,Delhi,India,2022-01-28,Regular
+CUST1120,Imran Pawar,Female,30,Indore,Madhya Pradesh,India,2024-05-07,Regular
+CUST1121,Pranav Gupta,Male,26,Surat,Gujarat,India,2022-01-03,Regular
+CUST1122,Pooja Verma,Male,58,Mysuru,Karnataka,India,2024-02-08,Regular
+CUST1123,Tarun Joshi,Female,46,Pune,Maharashtra,India,2021-01-26,Premium
+CUST1124,Rajesh Patel,Female,70,Mysuru,Karnataka,India,2022-06-02,New
+CUST1125,Arjun Das,Male,27,Lucknow,Uttar Pradesh,India,2021-06-01,Premium
+CUST1126,Harsh Chandra,Female,53,Visakhapatnam,Andhra Pradesh,India,2022-09-15,Regular
+CUST1127,Tarun Pillai,Female,51,Patna,Bihar,India,2024-05-05,Premium
+CUST1128,Rohan Shetty,Other,37,Thiruvananthapuram,Kerala,India,2022-09-01,VIP
+CUST1129,Geeta Menon,Female,66,Mysuru,Karnataka,India,2024-06-02,New
+CUST1130,Manoj Desai,Female,29,Hyderabad,Telangana,India,2022-06-26,Premium
+CUST1131,Deepak Iyer,Male,48,Delhi,Delhi,India,2021-01-06,Regular
+CUST1132,Pranav Verma,Male,47,Chennai,Tamil Nadu,India,2022-08-14,Premium
+CUST1133,Arjun Kulkarni,Male,60,Chennai,Tamil Nadu,India,2022-06-26,Premium
+CUST1134,Lakshmi Pillai,Female,35,Pune,Maharashtra,India,2024-01-21,Regular
+CUST1135,Harsh Iyer,Male,70,Mysuru,Karnataka,India,2021-12-06,Premium
+CUST1136,Geeta Yadav,Male,62,Kolkata,West Bengal,India,2023-06-19,Regular
+CUST1137,Sanjay Rao,Female,20,Indore,Madhya Pradesh,India,2024-01-11,Regular
+CUST1138,Sneha Saxena,Female,61,Ahmedabad,Gujarat,India,2024-05-21,Regular
+CUST1139,Geeta Bose,Male,66,Bengaluru,Karnataka,India,2024-10-08,VIP
+CUST1140,Tarun Patel,Male,29,Lucknow,Uttar Pradesh,India,2023-11-29,Premium
+CUST1141,Imran Pillai,Female,38,Lucknow,Uttar Pradesh,India,2021-07-06,Regular
+CUST1142,Neha Reddy,Male,60,Delhi,Delhi,India,2022-11-07,Regular
+CUST1143,Sanjay Hegde,Female,38,Chandigarh,Chandigarh,India,2021-03-17,Regular
+CUST1144,Farhan Pawar,Female,52,Jaipur,Rajasthan,India,2023-11-20,VIP
+CUST1145,Swati Pillai,Male,49,Mysuru,Karnataka,India,2022-01-20,Regular
+CUST1146,Leena Shetty,Female,36,Mysuru,Karnataka,India,2022-02-21,Regular
+CUST1147,Suresh Kapoor,Male,69,Lucknow,Uttar Pradesh,India,2021-09-06,Regular
+CUST1148,Nikhil Malhotra,Male,23,Delhi,Delhi,India,2022-09-29,Premium
+CUST1149,Meera Hegde,Male,27,Pune,Maharashtra,India,2023-08-04,New
+CUST1150,Vidya Yadav,Female,48,Kolkata,West Bengal,India,2023-11-09,Premium
+CUST1151,Varun Gupta,Female,56,Thiruvananthapuram,Kerala,India,2024-02-03,Regular
+CUST1152,Vikram Saxena,Male,44,Nagpur,Maharashtra,India,2021-05-23,Regular
+CUST1153,Rajesh Yadav,Female,37,Indore,Madhya Pradesh,India,2022-07-02,VIP
+CUST1154,Imran Bose,Male,39,Lucknow,Uttar Pradesh,India,2021-11-01,Regular
+CUST1155,Deepak Pawar,Female,30,Chandigarh,Chandigarh,India,2023-02-12,Regular
+CUST1156,Rekha Gupta,Male,20,Visakhapatnam,Andhra Pradesh,India,2023-02-24,Regular
+CUST1157,Rahul Saxena,Female,60,Lucknow,Uttar Pradesh,India,2024-12-15,New
+CUST1158,Mohammed Khan,Male,39,Lucknow,Uttar Pradesh,India,2021-03-17,Regular
+CUST1159,Divya Bhatt,Female,64,Thiruvananthapuram,Kerala,India,2021-07-24,Regular
+CUST1160,Harsh Pillai,Male,39,Nagpur,Maharashtra,India,2021-06-03,Regular
+CUST1161,Karthik Malhotra,Female,61,Jaipur,Rajasthan,India,2024-08-23,Regular
+CUST1162,Aisha Das,Male,52,Ahmedabad,Gujarat,India,2024-07-07,Premium
+CUST1163,Akash Menon,Male,32,Mumbai,Maharashtra,India,2022-04-26,Premium
+CUST1164,Sunita Iyer,Male,24,Kochi,Kerala,India,2021-07-21,Premium
+CUST1165,Suresh Patel,Male,36,Kolkata,West Bengal,India,2021-03-01,Regular
+CUST1166,Ramesh Kumar,Female,61,Kochi,Kerala,India,2021-10-26,Regular
+CUST1167,Kiran Patel,Female,61,Delhi,Delhi,India,2021-06-11,Premium
+CUST1168,Nikhil Joshi,Male,47,Visakhapatnam,Andhra Pradesh,India,2021-10-21,Regular
+CUST1169,Nisha Kulkarni,Male,28,Bengaluru,Karnataka,India,2023-08-11,New
+CUST1170,Arjun Shetty,Male,62,Surat,Gujarat,India,2024-04-18,Regular
+CUST1171,Nisha Shetty,Male,24,Kolkata,West Bengal,India,2022-02-12,New
+CUST1172,Nikhil Das,Other,36,Visakhapatnam,Andhra Pradesh,India,2023-01-06,Premium
+CUST1173,Aditi Hegde,Male,67,Jaipur,Rajasthan,India,2022-07-17,Regular
+CUST1174,Sunita Verma,Male,67,Patna,Bihar,India,2023-10-15,VIP
+CUST1175,Meera Menon,Male,61,Surat,Gujarat,India,2022-03-25,Premium
+CUST1176,Tarun Saxena,Male,20,Nagpur,Maharashtra,India,2024-07-10,Regular
+CUST1177,Priya Chandra,Male,23,Thiruvananthapuram,Kerala,India,2021-03-10,Premium
+CUST1178,Pranav Singh,Male,41,Kochi,Kerala,India,2021-12-26,Regular
+CUST1179,Vinod Mishra,Male,48,Coimbatore,Tamil Nadu,India,2021-12-03,Regular
+CUST1180,Pranav Saxena,Female,66,Ahmedabad,Gujarat,India,2021-08-24,Regular
+CUST1181,Meera Bhatt,Male,18,Jaipur,Rajasthan,India,2024-02-16,Regular
+CUST1182,Nisha Chopra,Male,34,Pune,Maharashtra,India,2023-07-21,Regular
+CUST1183,Imran Das,Female,57,Surat,Gujarat,India,2021-08-10,Premium
+CUST1184,Deepak Singh,Male,47,Patna,Bihar,India,2022-03-30,Premium
+CUST1185,Rekha Mehta,Male,37,Kochi,Kerala,India,2021-08-27,Regular
+CUST1186,Vidya Reddy,Female,47,Pune,Maharashtra,India,2022-04-26,VIP
+CUST1187,Riya Kulkarni,Male,44,Chandigarh,Chandigarh,India,2023-05-09,Premium
+CUST1188,Mohammed Reddy,Male,20,Lucknow,Uttar Pradesh,India,2024-06-14,Regular
+CUST1189,Rekha Kumar,Female,41,Hyderabad,Telangana,India,2023-06-28,Regular
+CUST1190,Divya Kulkarni,Male,21,Surat,Gujarat,India,2024-01-21,New
+CUST1191,Sanjay Rao,Male,23,Hyderabad,Telangana,India,2021-09-08,New
+CUST1192,Neha Nair,Female,26,Patna,Bihar,India,2021-02-13,Regular
+CUST1193,Geeta Nair,Female,32,Mumbai,Maharashtra,India,2024-02-10,Regular
+CUST1194,Rajesh Pawar,Male,27,Nagpur,Maharashtra,India,2024-05-05,Regular
+CUST1195,Gauri Chopra,Male,26,Coimbatore,Tamil Nadu,India,2021-12-24,Regular
+CUST1196,Aarav Kumar,Female,21,Chennai,Tamil Nadu,India,2024-04-20,Regular
+CUST1197,Gauri Saxena,Female,46,Kochi,Kerala,India,2023-12-14,Regular
+CUST1198,Uma Kumar,Male,57,Indore,Madhya Pradesh,India,2024-04-30,Regular
+CUST1199,Akash Saxena,Male,21,Indore,Madhya Pradesh,India,2022-09-10,Regular
+CUST1200,Varun Bhatt,Male,46,Jaipur,Rajasthan,India,2023-05-24,Premium
+CUST1201,Arjun Kapoor,Female,35,Mumbai,Maharashtra,India,2022-10-22,Premium
+CUST1202,Karthik Desai,Female,56,Visakhapatnam,Andhra Pradesh,India,2024-01-29,Premium
+CUST1203,Vinod Mehta,Female,62,Thiruvananthapuram,Kerala,India,2023-11-02,Premium
+CUST1204,Farhan Bhatt,Male,44,Chandigarh,Chandigarh,India,2022-03-17,Regular
+CUST1205,Rajesh Hegde,Female,45,Thiruvananthapuram,Kerala,India,2023-03-28,Regular
+CUST1206,Rahul Kulkarni,Male,48,Coimbatore,Tamil Nadu,India,2023-02-06,New
+CUST1207,Arjun Iyer,Male,41,Mumbai,Maharashtra,India,2021-07-10,Regular
+CUST1208,Gauri Chopra,Male,60,Mysuru,Karnataka,India,2024-04-16,New
+CUST1209,Farhan Pillai,Female,64,Surat,Gujarat,India,2024-09-24,New
+CUST1210,Ananya Mehta,Male,31,Patna,Bihar,India,2022-10-02,Regular
+CUST1211,Harsh Kulkarni,Female,53,Lucknow,Uttar Pradesh,India,2022-04-05,VIP
+CUST1212,Riya Reddy,Female,53,Coimbatore,Tamil Nadu,India,2024-03-21,Regular
+CUST1213,Uma Hegde,Male,56,Patna,Bihar,India,2024-06-10,Premium
+CUST1214,Neha Hegde,Male,37,Coimbatore,Tamil Nadu,India,2021-03-01,Regular
+CUST1215,Rajesh Kumar,Male,43,Bengaluru,Karnataka,India,2022-01-07,VIP
+CUST1216,Arjun Khan,Female,44,Bengaluru,Karnataka,India,2021-07-07,Premium
+CUST1217,Swati Singh,Female,54,Delhi,Delhi,India,2023-01-28,Regular
+CUST1218,Jyoti Iyer,Male,61,Mysuru,Karnataka,India,2021-11-15,Regular
+CUST1219,Asha Rao,Male,44,Thiruvananthapuram,Kerala,India,2024-09-17,Regular
+CUST1220,Pooja Nair,Female,61,Indore,Madhya Pradesh,India,2021-08-22,Regular
+CUST1221,Prakash Bose,Female,43,Lucknow,Uttar Pradesh,India,2023-12-16,Premium
+CUST1222,Jyoti Verma,Female,26,Bengaluru,Karnataka,India,2022-02-23,Regular
+CUST1223,Tarun Rao,Male,45,Kolkata,West Bengal,India,2022-11-03,Regular
+CUST1224,Kiran Khan,Male,60,Jaipur,Rajasthan,India,2023-12-27,Premium
+CUST1225,Ramesh Iyer,Female,22,Jaipur,Rajasthan,India,2021-03-28,Regular
+CUST1226,Rahul Bose,Male,36,Kochi,Kerala,India,2024-03-20,Regular
+CUST1227,Farhan Das,Male,47,Bengaluru,Karnataka,India,2022-10-28,Regular
+CUST1228,Rekha Yadav,Female,45,Surat,Gujarat,India,2021-06-30,Regular
+CUST1229,Imran Das,Female,39,Indore,Madhya Pradesh,India,2021-06-11,Regular
+CUST1230,Meera Singh,Female,50,Delhi,Delhi,India,2021-06-06,Regular
+CUST1231,Lakshmi Kapoor,Male,70,Surat,Gujarat,India,2022-12-21,Premium
+CUST1232,Harsh Gupta,Female,27,Pune,Maharashtra,India,2021-10-27,Regular
+CUST1233,Tarun Pawar,Male,47,Mumbai,Maharashtra,India,2021-12-29,New
+CUST1234,Tarun Bose,Male,59,Visakhapatnam,Andhra Pradesh,India,2023-07-09,Premium
+CUST1235,Leena Menon,Female,48,Ahmedabad,Gujarat,India,2024-07-08,Regular
+CUST1236,Suresh Desai,Female,22,Kolkata,West Bengal,India,2022-07-17,Premium
+CUST1237,Priya Shetty,Male,22,Thiruvananthapuram,Kerala,India,2021-03-19,Regular
+CUST1238,Mohammed Bhatt,Female,55,Mumbai,Maharashtra,India,2024-06-13,Premium
+CUST1239,Deepak Chandra,Male,30,Mysuru,Karnataka,India,2023-07-11,New
+CUST1240,Rahul Menon,Female,24,Lucknow,Uttar Pradesh,India,2023-10-24,Regular
+CUST1241,Rajesh Malhotra,Female,63,Mumbai,Maharashtra,India,2023-10-31,Premium
+CUST1242,Suresh Shetty,Female,36,Indore,Madhya Pradesh,India,2023-12-07,Premium
+CUST1243,Rohan Pillai,Male,59,Ahmedabad,Gujarat,India,2024-10-22,Premium
+CUST1244,Rajesh Iyer,Female,34,Ahmedabad,Gujarat,India,2021-07-13,Premium
+CUST1245,Seema Bhatt,Male,27,Patna,Bihar,India,2021-11-04,Regular
+CUST1246,Ramesh Mehta,Male,37,Jaipur,Rajasthan,India,2021-09-22,Premium
+CUST1247,Deepak Das,Male,65,Ahmedabad,Gujarat,India,2021-09-19,Premium
+CUST1248,Prakash Yadav,Female,41,Indore,Madhya Pradesh,India,2021-07-11,Premium
+CUST1249,Aditi Kumar,Female,67,Kolkata,West Bengal,India,2022-01-05,New
+CUST1250,Vidya Nair,Female,68,Chennai,Tamil Nadu,India,2021-10-09,Regular
+CUST1251,Divya Mishra,Female,67,Chandigarh,Chandigarh,India,2023-12-15,Regular
+CUST1252,Karthik Khan,Female,62,Patna,Bihar,India,2023-02-11,Regular
+CUST1253,Uma Menon,Female,64,Delhi,Delhi,India,2023-06-16,Regular
+CUST1254,Nikhil Shetty,Male,32,Patna,Bihar,India,2022-08-07,Premium
+CUST1255,Aisha Gupta,Female,61,Kolkata,West Bengal,India,2023-08-19,New
+CUST1256,Geeta Shetty,Male,44,Thiruvananthapuram,Kerala,India,2022-08-01,Premium
+CUST1257,Kavya Hegde,Female,59,Hyderabad,Telangana,India,2024-05-23,Regular
+CUST1258,Varun Bhatt,Male,51,Surat,Gujarat,India,2024-02-10,New
+CUST1259,Farhan Mehta,Male,27,Mumbai,Maharashtra,India,2021-11-25,Regular
+CUST1260,Sneha Iyer,Male,44,Chennai,Tamil Nadu,India,2023-07-13,VIP
+CUST1261,Ananya Das,Other,41,Indore,Madhya Pradesh,India,2023-02-05,Regular
+CUST1262,Meera Sharma,Male,68,Ahmedabad,Gujarat,India,2021-07-22,VIP
+CUST1263,Harsh Khan,Female,26,Mysuru,Karnataka,India,2022-08-11,New
+CUST1264,Tarun Malhotra,Male,19,Lucknow,Uttar Pradesh,India,2023-07-08,Premium
+CUST1265,Nisha Nair,Male,45,Nagpur,Maharashtra,India,2024-01-29,New
+CUST1266,Farhan Pawar,Female,44,Kolkata,West Bengal,India,2022-05-02,Regular
+CUST1267,Leena Chandra,Male,49,Patna,Bihar,India,2023-07-26,Regular
+CUST1268,Jyoti Chopra,Female,27,Bengaluru,Karnataka,India,2024-07-18,Regular
+CUST1269,Pranav Pillai,Male,29,Bengaluru,Karnataka,India,2024-06-13,Regular
+CUST1270,Neha Kulkarni,Female,51,Mumbai,Maharashtra,India,2023-12-09,New
+CUST1271,Aisha Mishra,Male,20,Indore,Madhya Pradesh,India,2024-02-09,Regular
+CUST1272,Leena Das,Female,22,Surat,Gujarat,India,2022-06-04,Premium
+CUST1273,Ramesh Gupta,Female,20,Pune,Maharashtra,India,2024-04-06,Premium
+CUST1274,Ramesh Chopra,Male,47,Ahmedabad,Gujarat,India,2024-08-09,Regular
+CUST1275,Rekha Joshi,Male,47,Delhi,Delhi,India,2021-10-04,Regular
+CUST1276,Akash Mehta,Male,38,Hyderabad,Telangana,India,2021-03-31,Premium
+CUST1277,Priya Mishra,Female,59,Jaipur,Rajasthan,India,2024-01-18,Regular
+CUST1278,Lakshmi Mehta,Female,25,Surat,Gujarat,India,2021-04-08,VIP
+CUST1279,Riya Pillai,Female,29,Jaipur,Rajasthan,India,2023-06-20,VIP
+CUST1280,Vidya Malhotra,Male,69,Lucknow,Uttar Pradesh,India,2023-01-23,New
+CUST1281,Asha Saxena,Other,29,Kochi,Kerala,India,2021-06-11,Regular
+CUST1282,Aisha Mehta,Male,37,Ahmedabad,Gujarat,India,2021-07-30,Regular
+CUST1283,Suresh Menon,Female,20,Kochi,Kerala,India,2021-12-08,Premium
+CUST1284,Seema Bhatt,Female,68,Surat,Gujarat,India,2024-06-13,New
+CUST1285,Ananya Iyer,Male,28,Jaipur,Rajasthan,India,2023-01-15,Regular
+CUST1286,Aditi Khan,Female,22,Patna,Bihar,India,2024-10-20,Premium
+CUST1287,Nikhil Pawar,Male,56,Surat,Gujarat,India,2023-01-12,Regular
+CUST1288,Harsh Kulkarni,Male,54,Thiruvananthapuram,Kerala,India,2023-01-30,Regular
+CUST1289,Gauri Mishra,Female,25,Surat,Gujarat,India,2023-03-27,Regular
+CUST1290,Aditi Saxena,Male,25,Delhi,Delhi,India,2023-10-20,Regular
+CUST1291,Nisha Pawar,Other,36,Coimbatore,Tamil Nadu,India,2024-12-12,Regular
+CUST1292,Rekha Yadav,Male,46,Lucknow,Uttar Pradesh,India,2022-02-14,Regular
+CUST1293,Kiran Kapoor,Male,38,Thiruvananthapuram,Kerala,India,2021-06-29,VIP
+CUST1294,Neha Kumar,Male,28,Mumbai,Maharashtra,India,2024-02-01,Regular
+CUST1295,Sachin Malhotra,Female,30,Delhi,Delhi,India,2023-01-11,Regular
+CUST1296,Gauri Gupta,Male,47,Lucknow,Uttar Pradesh,India,2021-02-23,Regular
+CUST1297,Deepak Khan,Female,63,Patna,Bihar,India,2021-06-26,Regular
+CUST1298,Seema Joshi,Male,22,Indore,Madhya Pradesh,India,2023-04-22,Premium
+CUST1299,Gauri Singh,Male,26,Mumbai,Maharashtra,India,2023-07-11,Regular
+CUST1300,Uma Chopra,Female,50,Visakhapatnam,Andhra Pradesh,India,2022-01-08,Premium
+CUST1301,Ananya Hegde,Female,38,Pune,Maharashtra,India,2023-11-28,Regular
+CUST1302,Sachin Gupta,Male,34,Surat,Gujarat,India,2023-11-29,VIP
+CUST1303,Lakshmi Desai,Female,52,Chandigarh,Chandigarh,India,2022-07-17,Regular
+CUST1304,Asha Mishra,Female,60,Delhi,Delhi,India,2024-04-27,New
+CUST1305,Karthik Saxena,Male,70,Patna,Bihar,India,2022-11-23,VIP
+CUST1306,Aditi Iyer,Female,31,Mysuru,Karnataka,India,2024-08-06,Premium
+CUST1307,Uma Bose,Male,58,Kochi,Kerala,India,2024-06-19,Premium
+CUST1308,Aisha Mehta,Male,43,Kolkata,West Bengal,India,2023-09-17,Regular
+CUST1309,Priya Shetty,Female,48,Mumbai,Maharashtra,India,2024-11-11,Regular
+CUST1310,Swati Nair,Male,38,Ahmedabad,Gujarat,India,2024-05-27,Regular
+CUST1311,Seema Bhatt,Female,53,Surat,Gujarat,India,2023-03-28,Regular
+CUST1312,Divya Singh,Female,27,Chennai,Tamil Nadu,India,2023-08-14,Regular
+CUST1313,Divya Verma,Female,28,Kolkata,West Bengal,India,2023-02-26,VIP
+CUST1314,Rahul Yadav,Female,50,Visakhapatnam,Andhra Pradesh,India,2022-10-03,Regular
+CUST1315,Swati Joshi,Male,50,Kolkata,West Bengal,India,2023-10-16,Regular
+CUST1316,Swati Gupta,Female,49,Hyderabad,Telangana,India,2024-04-09,Regular
+CUST1317,Jyoti Kapoor,Male,45,Lucknow,Uttar Pradesh,India,2022-08-09,Regular
+CUST1318,Gauri Kapoor,Female,43,Coimbatore,Tamil Nadu,India,2023-01-20,Premium
+CUST1319,Ananya Bose,Female,42,Chandigarh,Chandigarh,India,2022-02-03,Regular
+CUST1320,Vikram Shetty,Male,57,Chandigarh,Chandigarh,India,2022-07-27,VIP
+CUST1321,Farhan Khan,Other,53,Pune,Maharashtra,India,2023-03-18,Regular
+CUST1322,Riya Pawar,Female,20,Nagpur,Maharashtra,India,2022-02-12,Premium
+CUST1323,Akash Verma,Male,27,Nagpur,Maharashtra,India,2022-11-14,VIP
+CUST1324,Jyoti Kapoor,Male,28,Indore,Madhya Pradesh,India,2021-10-14,Regular
+CUST1325,Sanjay Menon,Male,52,Kolkata,West Bengal,India,2024-04-30,Regular
+CUST1326,Vidya Malhotra,Female,39,Visakhapatnam,Andhra Pradesh,India,2022-09-06,Regular
+CUST1327,Prakash Reddy,Male,62,Kochi,Kerala,India,2024-04-10,Regular
+CUST1328,Leena Sharma,Male,67,Patna,Bihar,India,2023-08-30,Regular
+CUST1329,Imran Bose,Female,58,Chennai,Tamil Nadu,India,2021-04-16,Premium
+CUST1330,Seema Menon,Female,54,Jaipur,Rajasthan,India,2021-10-30,VIP
+CUST1331,Rekha Reddy,Female,44,Hyderabad,Telangana,India,2021-02-08,Regular
+CUST1332,Rekha Nair,Male,65,Kochi,Kerala,India,2023-10-25,Premium
+CUST1333,Seema Verma,Female,60,Nagpur,Maharashtra,India,2023-11-29,Regular
+CUST1334,Varun Mishra,Female,52,Jaipur,Rajasthan,India,2022-10-05,New
+CUST1335,Rajesh Chopra,Male,59,Surat,Gujarat,India,2024-10-16,Premium
+CUST1336,Rekha Rao,Female,53,Patna,Bihar,India,2023-09-19,Regular
+CUST1337,Priya Gupta,Male,49,Kolkata,West Bengal,India,2022-08-15,Premium
+CUST1338,Rahul Joshi,Male,35,Surat,Gujarat,India,2024-02-22,New
+CUST1339,Pranav Reddy,Male,43,Visakhapatnam,Andhra Pradesh,India,2024-10-17,Regular
+CUST1340,Ramesh Pawar,Male,23,Nagpur,Maharashtra,India,2022-08-18,Regular
+CUST1341,Ramesh Yadav,Female,30,Thiruvananthapuram,Kerala,India,2024-09-05,Regular
+CUST1342,Aisha Rao,Female,65,Chandigarh,Chandigarh,India,2024-11-26,Regular
+CUST1343,Imran Gupta,Male,58,Chennai,Tamil Nadu,India,2021-04-14,Premium
+CUST1344,Meera Verma,Female,61,Pune,Maharashtra,India,2023-04-27,Regular
+CUST1345,Uma Khan,Female,59,Bengaluru,Karnataka,India,2024-02-02,New
+CUST1346,Varun Joshi,Male,67,Hyderabad,Telangana,India,2022-08-12,Regular
+CUST1347,Asha Desai,Male,20,Visakhapatnam,Andhra Pradesh,India,2022-04-21,Regular
+CUST1348,Kiran Pillai,Female,49,Delhi,Delhi,India,2021-03-16,New
+CUST1349,Kiran Yadav,Male,24,Kolkata,West Bengal,India,2021-03-18,Regular
+CUST1350,Rajesh Mehta,Male,26,Thiruvananthapuram,Kerala,India,2024-08-06,Regular
+CUST1351,Vikram Shetty,Female,64,Coimbatore,Tamil Nadu,India,2022-01-30,VIP
+CUST1352,Swati Desai,Female,36,Coimbatore,Tamil Nadu,India,2022-01-17,Regular
+CUST1353,Geeta Kulkarni,Male,43,Hyderabad,Telangana,India,2021-12-26,Premium
+CUST1354,Sneha Mishra,Female,26,Ahmedabad,Gujarat,India,2021-06-27,Regular
+CUST1355,Varun Singh,Female,66,Chennai,Tamil Nadu,India,2021-01-14,Regular
+CUST1356,Pooja Singh,Female,59,Kolkata,West Bengal,India,2024-04-07,Premium
+CUST1357,Riya Malhotra,Female,28,Chennai,Tamil Nadu,India,2021-05-08,Premium
+CUST1358,Sanjay Kulkarni,Male,58,Indore,Madhya Pradesh,India,2024-12-11,Premium
+CUST1359,Pranav Kumar,Female,27,Patna,Bihar,India,2022-03-29,Regular
+CUST1360,Swati Saxena,Male,48,Patna,Bihar,India,2023-02-05,Regular
+CUST1361,Tarun Chopra,Male,68,Hyderabad,Telangana,India,2022-05-22,Premium
+CUST1362,Asha Mishra,Female,54,Thiruvananthapuram,Kerala,India,2023-12-18,Premium
+CUST1363,Farhan Verma,Male,28,Chandigarh,Chandigarh,India,2023-11-02,Regular
+CUST1364,Rahul Bhatt,Female,55,Indore,Madhya Pradesh,India,2023-06-24,Regular
+CUST1365,Vidya Iyer,Female,50,Indore,Madhya Pradesh,India,2023-07-02,VIP
+CUST1366,Shreya Shetty,Male,37,Visakhapatnam,Andhra Pradesh,India,2021-04-29,Premium
+CUST1367,Seema Sharma,Male,55,Jaipur,Rajasthan,India,2022-06-06,VIP
+CUST1368,Arjun Verma,Male,21,Kochi,Kerala,India,2022-12-07,Premium
+CUST1369,Arjun Yadav,Female,26,Lucknow,Uttar Pradesh,India,2021-03-06,Regular
+CUST1370,Uma Desai,Female,42,Kochi,Kerala,India,2023-02-06,New
+CUST1371,Rohan Iyer,Female,29,Chandigarh,Chandigarh,India,2021-09-30,Premium
+CUST1372,Aisha Das,Female,18,Indore,Madhya Pradesh,India,2021-09-18,Premium
+CUST1373,Tarun Sharma,Male,52,Kolkata,West Bengal,India,2023-08-07,Premium
+CUST1374,Rohan Hegde,Female,30,Chennai,Tamil Nadu,India,2022-05-22,Regular
+CUST1375,Seema Pawar,Female,67,Pune,Maharashtra,India,2021-03-07,VIP
+CUST1376,Aditi Gupta,Female,56,Hyderabad,Telangana,India,2021-05-18,Regular
+CUST1377,Prakash Malhotra,Female,32,Mysuru,Karnataka,India,2022-05-17,Premium
+CUST1378,Aisha Nair,Female,70,Mysuru,Karnataka,India,2021-10-14,Regular
+CUST1379,Seema Bose,Male,38,Ahmedabad,Gujarat,India,2024-03-28,Premium
+CUST1380,Nikhil Mehta,Female,35,Nagpur,Maharashtra,India,2024-09-14,Regular
+CUST1381,Ananya Chopra,Female,49,Visakhapatnam,Andhra Pradesh,India,2021-12-25,Premium
+CUST1382,Ananya Kumar,Female,27,Jaipur,Rajasthan,India,2023-12-11,Regular
+CUST1383,Priya Das,Male,37,Delhi,Delhi,India,2024-01-07,Regular
+CUST1384,Sachin Khan,Male,53,Thiruvananthapuram,Kerala,India,2021-04-29,Premium
+CUST1385,Vinod Khan,Female,23,Jaipur,Rajasthan,India,2022-05-13,Regular
+CUST1386,Suresh Bhatt,Male,21,Surat,Gujarat,India,2021-07-09,Regular
+CUST1387,Pooja Das,Female,69,Patna,Bihar,India,2024-05-19,Regular
+CUST1388,Tarun Bose,Male,39,Chandigarh,Chandigarh,India,2022-03-21,Regular
+CUST1389,Priya Yadav,Male,25,Bengaluru,Karnataka,India,2022-03-10,New
+CUST1390,Sunita Pawar,Male,43,Lucknow,Uttar Pradesh,India,2022-05-12,Premium
+CUST1391,Nikhil Chopra,Male,40,Ahmedabad,Gujarat,India,2022-08-03,Regular
+CUST1392,Priya Rao,Female,69,Surat,Gujarat,India,2023-11-17,VIP
+CUST1393,Seema Joshi,Female,54,Ahmedabad,Gujarat,India,2022-02-21,Regular
+CUST1394,Meera Saxena,Male,55,Nagpur,Maharashtra,India,2021-02-03,Regular
+CUST1395,Seema Pillai,Female,54,Kolkata,West Bengal,India,2021-11-09,Regular
+CUST1396,Nikhil Joshi,Female,66,Chandigarh,Chandigarh,India,2024-09-02,New
+CUST1397,Vidya Saxena,Male,28,Lucknow,Uttar Pradesh,India,2023-08-02,Regular
+CUST1398,Gauri Saxena,Male,59,Chandigarh,Chandigarh,India,2023-09-28,Regular
+CUST1399,Ananya Mishra,Male,66,Mysuru,Karnataka,India,2021-06-02,New
+CUST1400,Aarav Pillai,Male,18,Nagpur,Maharashtra,India,2024-07-15,Regular
+CUST1401,Manoj Mishra,Male,57,Thiruvananthapuram,Kerala,India,2023-02-04,Regular
+CUST1402,Varun Kulkarni,Male,18,Lucknow,Uttar Pradesh,India,2021-02-02,Regular
+CUST1403,Aditi Mishra,Female,70,Coimbatore,Tamil Nadu,India,2024-01-03,New
+CUST1404,Rekha Kulkarni,Female,27,Kochi,Kerala,India,2022-01-03,Regular
+CUST1405,Nikhil Nair,Female,68,Patna,Bihar,India,2023-12-15,Regular
+CUST1406,Sanjay Iyer,Female,62,Surat,Gujarat,India,2023-04-12,Regular
+CUST1407,Meera Mehta,Male,20,Mumbai,Maharashtra,India,2024-08-31,New
+CUST1408,Asha Das,Female,18,Jaipur,Rajasthan,India,2023-02-12,Premium
+CUST1409,Rekha Patel,Male,39,Mumbai,Maharashtra,India,2023-10-21,VIP
+CUST1410,Geeta Bhatt,Female,62,Pune,Maharashtra,India,2023-12-18,New
+CUST1411,Geeta Joshi,Male,35,Coimbatore,Tamil Nadu,India,2021-04-06,New
+CUST1412,Aisha Bose,Female,31,Mysuru,Karnataka,India,2022-01-03,New
+CUST1413,Imran Khan,Male,54,Jaipur,Rajasthan,India,2021-06-07,Regular
+CUST1414,Rohan Kulkarni,Male,68,Chandigarh,Chandigarh,India,2022-11-11,Regular
+CUST1415,Rekha Saxena,Female,24,Mumbai,Maharashtra,India,2023-10-23,Premium
+CUST1416,Sneha Gupta,Male,56,Mumbai,Maharashtra,India,2022-11-29,Premium
+CUST1417,Sanjay Pawar,Male,46,Ahmedabad,Gujarat,India,2021-03-02,Premium
+CUST1418,Vidya Gupta,Female,61,Surat,Gujarat,India,2024-02-07,New
+CUST1419,Imran Kulkarni,Female,33,Jaipur,Rajasthan,India,2021-06-25,Premium
+CUST1420,Sachin Iyer,Male,58,Mumbai,Maharashtra,India,2022-07-03,Regular
+CUST1421,Harsh Saxena,Female,37,Jaipur,Rajasthan,India,2022-10-11,Regular
+CUST1422,Suresh Kumar,Female,46,Coimbatore,Tamil Nadu,India,2021-07-29,Regular
+CUST1423,Deepak Chopra,Female,53,Indore,Madhya Pradesh,India,2023-04-16,Regular
+CUST1424,Asha Menon,Female,44,Patna,Bihar,India,2022-10-27,VIP
+CUST1425,Rohan Pawar,Other,54,Mumbai,Maharashtra,India,2024-02-20,New
+CUST1426,Vinod Patel,Female,49,Jaipur,Rajasthan,India,2021-12-14,Regular
+CUST1427,Harsh Iyer,Female,68,Delhi,Delhi,India,2023-06-10,Regular
+CUST1428,Arjun Kumar,Male,57,Coimbatore,Tamil Nadu,India,2022-05-21,Premium
+CUST1429,Lakshmi Shetty,Male,39,Pune,Maharashtra,India,2021-10-05,Regular
+CUST1430,Karthik Das,Male,59,Ahmedabad,Gujarat,India,2023-06-21,Regular
+CUST1431,Jyoti Khan,Male,48,Kolkata,West Bengal,India,2022-10-19,Premium
+CUST1432,Rahul Patel,Male,49,Jaipur,Rajasthan,India,2022-10-16,Regular
+CUST1433,Geeta Chandra,Male,43,Chennai,Tamil Nadu,India,2022-10-30,Regular
+CUST1434,Riya Reddy,Male,61,Visakhapatnam,Andhra Pradesh,India,2022-02-14,Premium
+CUST1435,Uma Chopra,Female,69,Bengaluru,Karnataka,India,2023-08-04,New
+CUST1436,Pranav Hegde,Female,37,Mumbai,Maharashtra,India,2023-04-18,Premium
+CUST1437,Nikhil Rao,Female,56,Nagpur,Maharashtra,India,2023-05-17,Premium
+CUST1438,Varun Bose,Male,62,Jaipur,Rajasthan,India,2023-12-31,Regular
+CUST1439,Shreya Chopra,Male,56,Mysuru,Karnataka,India,2023-01-07,Premium
+CUST1440,Leena Yadav,Male,40,Mumbai,Maharashtra,India,2021-08-12,Premium
+CUST1441,Kavya Desai,Male,59,Patna,Bihar,India,2021-04-01,Premium
+CUST1442,Sanjay Pawar,Female,32,Ahmedabad,Gujarat,India,2023-06-01,Regular
+CUST1443,Vikram Saxena,Male,46,Indore,Madhya Pradesh,India,2024-02-17,Premium
+CUST1444,Riya Das,Male,40,Thiruvananthapuram,Kerala,India,2024-10-23,Premium
+CUST1445,Aditi Joshi,Male,25,Pune,Maharashtra,India,2022-08-29,Regular
+CUST1446,Seema Khan,Male,51,Surat,Gujarat,India,2022-10-01,Regular
+CUST1447,Varun Kumar,Male,38,Lucknow,Uttar Pradesh,India,2021-07-19,Regular
+CUST1448,Arjun Mehta,Male,59,Mysuru,Karnataka,India,2024-12-26,Regular
+CUST1449,Divya Kulkarni,Male,39,Delhi,Delhi,India,2022-05-15,Regular
+CUST1450,Deepak Pillai,Male,29,Thiruvananthapuram,Kerala,India,2022-04-20,Premium
+CUST1451,Leena Kulkarni,Male,30,Kochi,Kerala,India,2023-03-22,Regular
+CUST1452,Suresh Bose,Female,35,Kochi,Kerala,India,2023-03-08,Regular
+CUST1453,Tarun Malhotra,Male,29,Mumbai,Maharashtra,India,2024-03-28,Regular
+CUST1454,Riya Singh,Male,49,Hyderabad,Telangana,India,2023-07-27,Regular
+CUST1455,Vinod Desai,Female,25,Ahmedabad,Gujarat,India,2024-05-07,Regular
+CUST1456,Ramesh Kumar,Male,69,Thiruvananthapuram,Kerala,India,2024-06-18,Regular
+CUST1457,Priya Yadav,Female,25,Patna,Bihar,India,2024-04-23,Regular
+CUST1458,Nikhil Mehta,Female,42,Pune,Maharashtra,India,2022-01-10,Regular
+CUST1459,Shreya Menon,Female,58,Nagpur,Maharashtra,India,2024-03-23,Regular
+CUST1460,Aisha Malhotra,Female,29,Delhi,Delhi,India,2024-02-11,Regular
+CUST1461,Rahul Hegde,Female,18,Thiruvananthapuram,Kerala,India,2024-06-22,Regular
+CUST1462,Vidya Khan,Male,49,Hyderabad,Telangana,India,2023-02-26,New
+CUST1463,Shreya Kulkarni,Female,28,Lucknow,Uttar Pradesh,India,2023-05-02,Premium
+CUST1464,Asha Bose,Female,52,Bengaluru,Karnataka,India,2022-03-28,Regular
+CUST1465,Pranav Patel,Male,53,Thiruvananthapuram,Kerala,India,2024-03-04,Premium
+CUST1466,Vikram Reddy,Male,41,Visakhapatnam,Andhra Pradesh,India,2021-08-22,Regular
+CUST1467,Aisha Hegde,Other,24,Mysuru,Karnataka,India,2023-06-23,Regular
+CUST1468,Sunita Hegde,Female,34,Chennai,Tamil Nadu,India,2022-09-02,VIP
+CUST1469,Ramesh Bhatt,Female,69,Mumbai,Maharashtra,India,2023-06-19,VIP
+CUST1470,Nikhil Nair,Male,58,Visakhapatnam,Andhra Pradesh,India,2024-11-12,Regular
+CUST1471,Sneha Patel,Male,69,Patna,Bihar,India,2021-10-13,Premium
+CUST1472,Ananya Bose,Male,38,Surat,Gujarat,India,2023-12-27,Regular
+CUST1473,Sachin Mehta,Male,61,Kolkata,West Bengal,India,2024-03-18,Regular
+CUST1474,Divya Khan,Male,26,Kochi,Kerala,India,2021-05-02,New
+CUST1475,Rekha Bhatt,Female,33,Nagpur,Maharashtra,India,2022-05-27,Regular
+CUST1476,Tarun Hegde,Male,58,Jaipur,Rajasthan,India,2023-09-30,Regular
+CUST1477,Shreya Das,Male,23,Thiruvananthapuram,Kerala,India,2021-06-04,Premium
+CUST1478,Sanjay Mishra,Female,49,Coimbatore,Tamil Nadu,India,2024-11-23,New
+CUST1479,Rahul Bose,Female,60,Bengaluru,Karnataka,India,2021-07-10,Premium
+CUST1480,Rekha Kumar,Male,70,Mumbai,Maharashtra,India,2023-12-31,Regular
+CUST1481,Manoj Joshi,Female,54,Coimbatore,Tamil Nadu,India,2022-10-24,VIP
+CUST1482,Gauri Bose,Male,20,Lucknow,Uttar Pradesh,India,2022-12-05,VIP
+CUST1483,Divya Desai,Male,46,Thiruvananthapuram,Kerala,India,2021-02-03,Regular
+CUST1484,Swati Sharma,Male,59,Kochi,Kerala,India,2022-02-19,New
+CUST1485,Priya Patel,Female,41,Coimbatore,Tamil Nadu,India,2021-07-11,Premium
+CUST1486,Neha Kapoor,Female,62,Delhi,Delhi,India,2021-04-17,Regular
+CUST1487,Tarun Gupta,Female,31,Kochi,Kerala,India,2024-09-04,Regular
+CUST1488,Varun Iyer,Male,18,Nagpur,Maharashtra,India,2024-04-30,Regular
+CUST1489,Aarav Malhotra,Female,26,Ahmedabad,Gujarat,India,2021-09-04,New
+CUST1490,Varun Iyer,Male,24,Chennai,Tamil Nadu,India,2023-02-24,Regular
+CUST1491,Rahul Kumar,Male,26,Kolkata,West Bengal,India,2021-10-08,Regular
+CUST1492,Mohammed Kulkarni,Female,59,Nagpur,Maharashtra,India,2021-05-21,Regular
+CUST1493,Kavya Shetty,Female,44,Surat,Gujarat,India,2022-03-13,Premium
+CUST1494,Karthik Kulkarni,Female,66,Thiruvananthapuram,Kerala,India,2022-03-21,Regular
+CUST1495,Farhan Bose,Female,26,Jaipur,Rajasthan,India,2022-12-21,New
+CUST1496,Nikhil Rao,Male,56,Mumbai,Maharashtra,India,2022-05-24,Premium
+CUST1497,Pranav Pawar,Female,56,Bengaluru,Karnataka,India,2024-09-10,VIP
+CUST1498,Vikram Nair,Male,68,Jaipur,Rajasthan,India,2022-08-29,Premium
+CUST1499,Nikhil Joshi,Male,22,Jaipur,Rajasthan,India,2021-08-19,Regular
+CUST1500,Vinod Kapoor,Female,54,Bengaluru,Karnataka,India,2023-01-10,New
+CUST1501,Shreya Kumar,Female,67,Chandigarh,Chandigarh,India,2024-10-30,Regular
+CUST1502,Arjun Sharma,Female,21,Visakhapatnam,Andhra Pradesh,India,2021-05-19,Regular
+CUST1503,Sanjay Mishra,Male,45,Kolkata,West Bengal,India,2024-07-11,Premium
+CUST1504,Rekha Das,Male,35,Mumbai,Maharashtra,India,2024-08-04,Regular
+CUST1505,Asha Mehta,Other,27,Mumbai,Maharashtra,India,2023-11-14,New
+CUST1506,Aisha Singh,Male,61,Jaipur,Rajasthan,India,2024-04-16,Premium
+CUST1507,Mohammed Iyer,Male,33,Kolkata,West Bengal,India,2024-12-01,Regular
+CUST1508,Ananya Gupta,Male,21,Mumbai,Maharashtra,India,2023-06-09,Regular
+CUST1509,Priya Kulkarni,Female,18,Delhi,Delhi,India,2021-09-02,Regular
+CUST1510,Kavya Joshi,Male,34,Surat,Gujarat,India,2023-12-08,Regular
+CUST1511,Kavya Kumar,Female,19,Nagpur,Maharashtra,India,2022-07-05,Premium
+CUST1512,Rajesh Chandra,Female,54,Kochi,Kerala,India,2022-07-12,Regular
+CUST1513,Leena Iyer,Female,54,Lucknow,Uttar Pradesh,India,2023-07-22,Regular
+CUST1514,Kavya Kumar,Male,61,Delhi,Delhi,India,2022-06-07,Premium
+CUST1515,Seema Reddy,Male,18,Chennai,Tamil Nadu,India,2023-11-09,Regular
+CUST1516,Nikhil Verma,Female,20,Lucknow,Uttar Pradesh,India,2023-01-16,Regular
+CUST1517,Deepak Chandra,Female,64,Kochi,Kerala,India,2022-04-05,Regular
+CUST1518,Rahul Rao,Male,21,Mumbai,Maharashtra,India,2024-03-16,Regular
+CUST1519,Kiran Gupta,Female,47,Indore,Madhya Pradesh,India,2021-04-05,New
+CUST1520,Pranav Pawar,Female,41,Kolkata,West Bengal,India,2022-11-02,Regular
+CUST1521,Lakshmi Mehta,Female,41,Visakhapatnam,Andhra Pradesh,India,2022-09-15,Premium
+CUST1522,Imran Joshi,Female,18,Hyderabad,Telangana,India,2024-01-25,Premium
+CUST1523,Shreya Sharma,Male,18,Chennai,Tamil Nadu,India,2024-01-15,Regular
+CUST1524,Rajesh Sharma,Male,33,Jaipur,Rajasthan,India,2022-09-22,Regular
+CUST1525,Shreya Joshi,Female,32,Mysuru,Karnataka,India,2021-10-19,Premium
+CUST1526,Vinod Pillai,Female,24,Surat,Gujarat,India,2023-07-28,New
+CUST1527,Vikram Khan,Female,60,Jaipur,Rajasthan,India,2021-06-03,Premium
+CUST1528,Gauri Gupta,Male,43,Kolkata,West Bengal,India,2022-06-19,VIP
+CUST1529,Rekha Hegde,Female,30,Ahmedabad,Gujarat,India,2022-10-14,Regular
+CUST1530,Gauri Pawar,Female,47,Visakhapatnam,Andhra Pradesh,India,2021-08-12,Regular
+CUST1531,Rahul Pillai,Male,46,Pune,Maharashtra,India,2024-01-03,Regular
+CUST1532,Priya Shetty,Male,37,Coimbatore,Tamil Nadu,India,2021-09-03,Regular
+CUST1533,Sachin Malhotra,Male,27,Patna,Bihar,India,2021-03-24,Regular
+CUST1534,Asha Malhotra,Female,37,Chennai,Tamil Nadu,India,2022-12-30,Regular
+CUST1535,Nisha Hegde,Male,53,Delhi,Delhi,India,2021-03-05,New
+CUST1536,Sunita Chopra,Male,26,Chennai,Tamil Nadu,India,2021-07-13,Regular
+CUST1537,Farhan Sharma,Male,41,Mysuru,Karnataka,India,2022-04-01,Regular
+CUST1538,Prakash Desai,Male,22,Mumbai,Maharashtra,India,2024-04-07,Premium
+CUST1539,Aditi Iyer,Female,69,Hyderabad,Telangana,India,2024-08-15,Regular
+CUST1540,Rajesh Reddy,Male,45,Mysuru,Karnataka,India,2023-08-03,Regular
+CUST1541,Seema Das,Female,40,Lucknow,Uttar Pradesh,India,2021-03-02,Regular
+CUST1542,Manoj Yadav,Male,20,Delhi,Delhi,India,2022-07-18,Regular
+CUST1543,Karthik Menon,Male,53,Patna,Bihar,India,2022-05-19,Premium
+CUST1544,Varun Verma,Female,59,Mumbai,Maharashtra,India,2022-07-27,Regular
+CUST1545,Vinod Gupta,Male,40,Chandigarh,Chandigarh,India,2021-02-09,New
+CUST1546,Varun Chopra,Male,42,Lucknow,Uttar Pradesh,India,2022-12-06,New
+CUST1547,Pooja Patel,Female,69,Bengaluru,Karnataka,India,2022-10-16,Premium
+CUST1548,Uma Rao,Male,32,Mysuru,Karnataka,India,2023-08-25,Regular
+CUST1549,Kavya Reddy,Male,68,Chennai,Tamil Nadu,India,2024-09-07,Regular
+CUST1550,Sunita Verma,Male,40,Chennai,Tamil Nadu,India,2024-03-25,VIP
+CUST1551,Kiran Patel,Male,40,Chennai,Tamil Nadu,India,2024-04-28,Regular
+CUST1552,Imran Sharma,Male,30,Surat,Gujarat,India,2024-03-08,Premium
+CUST1553,Vidya Chopra,Female,32,Kolkata,West Bengal,India,2021-12-26,Regular
+CUST1554,Jyoti Gupta,Female,57,Bengaluru,Karnataka,India,2023-12-15,Regular
+CUST1555,Lakshmi Chandra,Male,38,Nagpur,Maharashtra,India,2022-11-29,Premium
+CUST1556,Ananya Sharma,Female,25,Nagpur,Maharashtra,India,2024-04-16,Premium
+CUST1557,Vinod Bhatt,Male,43,Surat,Gujarat,India,2021-05-29,Regular
+CUST1558,Imran Reddy,Other,64,Ahmedabad,Gujarat,India,2022-09-11,Regular
+CUST1559,Sneha Chandra,Male,53,Lucknow,Uttar Pradesh,India,2024-08-22,Regular
+CUST1560,Rekha Kapoor,Male,29,Patna,Bihar,India,2023-01-01,Regular
+CUST1561,Rohan Mehta,Female,62,Kolkata,West Bengal,India,2021-09-18,Regular
+CUST1562,Geeta Das,Female,69,Visakhapatnam,Andhra Pradesh,India,2021-03-08,Regular
+CUST1563,Karthik Gupta,Female,65,Visakhapatnam,Andhra Pradesh,India,2021-08-02,New
+CUST1564,Arjun Gupta,Male,23,Surat,Gujarat,India,2022-10-17,Regular
+CUST1565,Sachin Kulkarni,Female,62,Ahmedabad,Gujarat,India,2023-07-04,Regular
+CUST1566,Arjun Kumar,Female,46,Coimbatore,Tamil Nadu,India,2021-08-10,Premium
+CUST1567,Seema Pillai,Female,52,Delhi,Delhi,India,2023-04-28,Regular
+CUST1568,Rohan Reddy,Male,28,Lucknow,Uttar Pradesh,India,2024-03-29,Premium
+CUST1569,Suresh Iyer,Female,24,Mysuru,Karnataka,India,2022-08-27,Regular
+CUST1570,Arjun Singh,Female,23,Delhi,Delhi,India,2023-02-08,Regular
+CUST1571,Rajesh Menon,Female,59,Patna,Bihar,India,2023-09-16,Premium
+CUST1572,Kavya Menon,Female,30,Kochi,Kerala,India,2021-11-18,Regular
+CUST1573,Shreya Malhotra,Female,33,Chandigarh,Chandigarh,India,2024-01-12,Regular
+CUST1574,Divya Verma,Male,21,Jaipur,Rajasthan,India,2024-03-16,Regular
+CUST1575,Riya Sharma,Male,56,Kochi,Kerala,India,2021-06-29,Regular
+CUST1576,Varun Nair,Male,23,Pune,Maharashtra,India,2021-02-22,Regular
+CUST1577,Varun Bhatt,Female,60,Pune,Maharashtra,India,2022-09-24,Premium
+CUST1578,Nisha Iyer,Male,41,Chandigarh,Chandigarh,India,2023-03-05,Regular
+CUST1579,Kiran Shetty,Female,35,Mysuru,Karnataka,India,2022-06-24,Regular
+CUST1580,Geeta Verma,Female,40,Nagpur,Maharashtra,India,2024-11-27,Premium
+CUST1581,Aisha Pillai,Male,70,Visakhapatnam,Andhra Pradesh,India,2022-04-11,Premium
+CUST1582,Vinod Pillai,Female,33,Chandigarh,Chandigarh,India,2024-11-08,VIP
+CUST1583,Varun Mehta,Male,50,Mumbai,Maharashtra,India,2023-03-20,New
+CUST1584,Geeta Kapoor,Male,25,Indore,Madhya Pradesh,India,2024-03-16,Premium
+CUST1585,Tarun Shetty,Male,26,Delhi,Delhi,India,2021-12-09,New
+CUST1586,Akash Pillai,Other,58,Mumbai,Maharashtra,India,2024-10-31,Regular
+CUST1587,Harsh Hegde,Male,69,Patna,Bihar,India,2022-06-13,Regular
+CUST1588,Arjun Iyer,Female,35,Jaipur,Rajasthan,India,2024-02-14,Regular
+CUST1589,Vinod Shetty,Male,44,Bengaluru,Karnataka,India,2024-12-05,Premium
+CUST1590,Farhan Pillai,Male,24,Nagpur,Maharashtra,India,2021-10-31,Premium
+CUST1591,Divya Bose,Male,44,Pune,Maharashtra,India,2022-08-09,VIP
+CUST1592,Nisha Das,Female,35,Lucknow,Uttar Pradesh,India,2024-03-17,Premium
+CUST1593,Sanjay Khan,Female,43,Patna,Bihar,India,2024-05-31,Premium
+CUST1594,Rajesh Malhotra,Male,41,Chennai,Tamil Nadu,India,2021-04-11,Premium
+CUST1595,Aditi Singh,Male,62,Kolkata,West Bengal,India,2022-09-29,Regular
+CUST1596,Prakash Reddy,Male,67,Chennai,Tamil Nadu,India,2021-10-03,Regular
+CUST1597,Rahul Rao,Female,31,Kochi,Kerala,India,2024-05-23,Premium
+CUST1598,Shreya Saxena,Male,50,Lucknow,Uttar Pradesh,India,2023-11-24,VIP
+CUST1599,Kavya Iyer,Female,51,Kolkata,West Bengal,India,2024-12-24,Regular
+CUST1600,Geeta Sharma,Female,21,Delhi,Delhi,India,2022-01-30,VIP
+CUST1601,Nikhil Verma,Male,35,Thiruvananthapuram,Kerala,India,2021-04-14,New
+CUST1602,Riya Hegde,Male,61,Thiruvananthapuram,Kerala,India,2023-11-01,Regular
+CUST1603,Aditi Gupta,Female,48,Surat,Gujarat,India,2023-09-29,Premium
+CUST1604,Imran Chopra,Male,65,Surat,Gujarat,India,2022-12-07,Regular
+CUST1605,Rekha Iyer,Female,54,Kolkata,West Bengal,India,2021-02-26,Regular
+CUST1606,Uma Nair,Female,59,Chennai,Tamil Nadu,India,2024-08-18,Regular
+CUST1607,Shreya Mishra,Male,59,Bengaluru,Karnataka,India,2024-10-29,Regular
+CUST1608,Kiran Menon,Male,37,Bengaluru,Karnataka,India,2022-04-04,Regular
+CUST1609,Sachin Malhotra,Male,47,Coimbatore,Tamil Nadu,India,2023-05-18,VIP
+CUST1610,Nisha Nair,Male,43,Thiruvananthapuram,Kerala,India,2022-09-11,Premium
+CUST1611,Imran Reddy,Male,41,Bengaluru,Karnataka,India,2023-11-14,New
+CUST1612,Deepak Desai,Male,48,Patna,Bihar,India,2024-06-01,Regular
+CUST1613,Arjun Singh,Female,59,Coimbatore,Tamil Nadu,India,2024-08-04,Regular
+CUST1614,Sachin Kapoor,Male,21,Kolkata,West Bengal,India,2022-01-21,Regular
+CUST1615,Jyoti Das,Female,49,Ahmedabad,Gujarat,India,2024-10-26,Regular
+CUST1616,Pranav Rao,Female,63,Kochi,Kerala,India,2023-04-09,Regular
+CUST1617,Geeta Hegde,Female,52,Hyderabad,Telangana,India,2022-12-04,Premium
+CUST1618,Leena Chandra,Female,28,Lucknow,Uttar Pradesh,India,2024-10-07,Regular
+CUST1619,Neha Kapoor,Female,65,Chandigarh,Chandigarh,India,2022-01-06,Regular
+CUST1620,Nisha Saxena,Male,59,Chandigarh,Chandigarh,India,2022-01-10,New
+CUST1621,Asha Gupta,Female,68,Surat,Gujarat,India,2022-04-03,Premium
+CUST1622,Rajesh Kumar,Male,48,Coimbatore,Tamil Nadu,India,2024-04-14,Regular
+CUST1623,Ananya Bhatt,Female,30,Visakhapatnam,Andhra Pradesh,India,2024-04-03,New
+CUST1624,Vikram Reddy,Female,27,Jaipur,Rajasthan,India,2023-12-22,Regular
+CUST1625,Gauri Nair,Male,47,Ahmedabad,Gujarat,India,2023-04-19,New
+CUST1626,Harsh Singh,Male,29,Delhi,Delhi,India,2021-06-15,Regular
+CUST1627,Rahul Desai,Female,67,Mysuru,Karnataka,India,2021-01-10,Regular
+CUST1628,Kavya Bose,Male,26,Delhi,Delhi,India,2023-09-30,Premium
+CUST1629,Karthik Pillai,Female,18,Kochi,Kerala,India,2023-04-07,Regular
+CUST1630,Akash Chopra,Male,66,Hyderabad,Telangana,India,2023-02-04,New
+CUST1631,Vinod Nair,Male,32,Bengaluru,Karnataka,India,2024-10-17,Regular
+CUST1632,Rekha Kapoor,Female,55,Surat,Gujarat,India,2022-10-02,Regular
+CUST1633,Priya Patel,Female,64,Mumbai,Maharashtra,India,2021-04-04,Regular
+CUST1634,Vinod Menon,Male,26,Indore,Madhya Pradesh,India,2022-11-23,Regular
+CUST1635,Rajesh Kapoor,Female,69,Lucknow,Uttar Pradesh,India,2023-01-06,Premium
+CUST1636,Sanjay Sharma,Female,64,Chennai,Tamil Nadu,India,2022-04-05,Premium
+CUST1637,Aditi Bose,Male,68,Indore,Madhya Pradesh,India,2021-12-13,Regular
+CUST1638,Akash Das,Male,21,Coimbatore,Tamil Nadu,India,2024-01-01,Premium
+CUST1639,Neha Reddy,Female,42,Bengaluru,Karnataka,India,2021-04-09,Premium
+CUST1640,Farhan Chopra,Female,61,Coimbatore,Tamil Nadu,India,2023-08-30,Premium
+CUST1641,Leena Sharma,Male,35,Kolkata,West Bengal,India,2023-05-12,Premium
+CUST1642,Karthik Menon,Female,64,Nagpur,Maharashtra,India,2023-05-08,VIP
+CUST1643,Karthik Reddy,Male,56,Kolkata,West Bengal,India,2021-08-22,Premium
+CUST1644,Lakshmi Pawar,Female,44,Coimbatore,Tamil Nadu,India,2023-12-08,New
+CUST1645,Pranav Patel,Female,48,Mysuru,Karnataka,India,2024-01-28,Regular
+CUST1646,Rajesh Gupta,Male,54,Bengaluru,Karnataka,India,2021-01-27,Premium
+CUST1647,Neha Joshi,Female,64,Nagpur,Maharashtra,India,2021-07-04,Premium
+CUST1648,Divya Kapoor,Other,36,Coimbatore,Tamil Nadu,India,2024-08-12,Regular
+CUST1649,Nisha Shetty,Male,36,Mysuru,Karnataka,India,2021-07-24,VIP
+CUST1650,Riya Chandra,Female,66,Ahmedabad,Gujarat,India,2023-05-23,Premium
+CUST1651,Akash Sharma,Female,46,Nagpur,Maharashtra,India,2024-09-20,Premium
+CUST1652,Karthik Rao,Female,43,Mumbai,Maharashtra,India,2023-02-03,VIP
+CUST1653,Sanjay Shetty,Female,44,Coimbatore,Tamil Nadu,India,2023-03-01,Premium
+CUST1654,Mohammed Kapoor,Male,28,Delhi,Delhi,India,2021-08-20,Regular
+CUST1655,Divya Pillai,Male,29,Visakhapatnam,Andhra Pradesh,India,2023-09-16,VIP
+CUST1656,Karthik Das,Male,64,Surat,Gujarat,India,2024-06-06,Regular
+CUST1657,Gauri Joshi,Female,22,Lucknow,Uttar Pradesh,India,2021-08-20,VIP
+CUST1658,Nisha Desai,Male,67,Ahmedabad,Gujarat,India,2021-01-26,Premium
+CUST1659,Sunita Bose,Male,39,Visakhapatnam,Andhra Pradesh,India,2022-04-04,New
+CUST1660,Vinod Mishra,Male,48,Patna,Bihar,India,2021-07-15,Regular
+CUST1661,Ramesh Kulkarni,Male,57,Jaipur,Rajasthan,India,2021-11-01,VIP
+CUST1662,Ananya Sharma,Male,28,Delhi,Delhi,India,2023-11-02,VIP
+CUST1663,Arjun Pawar,Other,21,Lucknow,Uttar Pradesh,India,2022-10-19,Regular
+CUST1664,Vikram Gupta,Male,23,Chandigarh,Chandigarh,India,2024-08-10,Regular
+CUST1665,Swati Shetty,Male,38,Visakhapatnam,Andhra Pradesh,India,2023-07-07,Regular
+CUST1666,Farhan Joshi,Female,53,Bengaluru,Karnataka,India,2021-07-30,Regular
+CUST1667,Aarav Hegde,Male,50,Mumbai,Maharashtra,India,2024-05-22,New
+CUST1668,Deepak Nair,Female,32,Thiruvananthapuram,Kerala,India,2022-11-30,Regular
+CUST1669,Swati Singh,Male,41,Chandigarh,Chandigarh,India,2024-06-23,Premium
+CUST1670,Sachin Shetty,Female,39,Pune,Maharashtra,India,2021-07-19,Premium
+CUST1671,Ramesh Hegde,Male,20,Kolkata,West Bengal,India,2024-01-27,Regular
+CUST1672,Kavya Joshi,Male,30,Nagpur,Maharashtra,India,2023-04-19,Regular
+CUST1673,Farhan Yadav,Male,63,Jaipur,Rajasthan,India,2022-03-18,Regular
+CUST1674,Rajesh Reddy,Male,55,Kochi,Kerala,India,2021-04-06,New
+CUST1675,Farhan Pawar,Male,26,Thiruvananthapuram,Kerala,India,2023-07-26,Premium
+CUST1676,Vidya Sharma,Female,55,Indore,Madhya Pradesh,India,2021-04-10,Premium
+CUST1677,Varun Yadav,Female,70,Indore,Madhya Pradesh,India,2021-12-29,Premium
+CUST1678,Gauri Reddy,Male,50,Jaipur,Rajasthan,India,2024-09-08,Premium
+CUST1679,Rohan Pillai,Female,39,Patna,Bihar,India,2024-11-19,Premium
+CUST1680,Pranav Shetty,Male,65,Nagpur,Maharashtra,India,2021-10-10,Regular
+CUST1681,Vikram Mehta,Male,58,Chandigarh,Chandigarh,India,2022-10-05,Premium
+CUST1682,Manoj Nair,Male,61,Hyderabad,Telangana,India,2024-07-02,Premium
+CUST1683,Gauri Malhotra,Male,63,Delhi,Delhi,India,2023-10-29,Regular
+CUST1684,Farhan Pawar,Male,60,Surat,Gujarat,India,2024-02-26,Regular
+CUST1685,Sachin Pillai,Female,18,Chandigarh,Chandigarh,India,2022-08-09,VIP
+CUST1686,Vinod Reddy,Male,30,Bengaluru,Karnataka,India,2023-02-20,Regular
+CUST1687,Pooja Pawar,Female,21,Delhi,Delhi,India,2022-08-10,Premium
+CUST1688,Rekha Chandra,Female,70,Kolkata,West Bengal,India,2022-02-22,Premium
+CUST1689,Suresh Reddy,Male,65,Patna,Bihar,India,2024-10-15,Premium
+CUST1690,Mohammed Chopra,Male,62,Jaipur,Rajasthan,India,2022-05-02,Regular
+CUST1691,Pranav Malhotra,Male,61,Mysuru,Karnataka,India,2023-02-21,Regular
+CUST1692,Rahul Chopra,Female,67,Mysuru,Karnataka,India,2021-01-27,Premium
+CUST1693,Suresh Hegde,Male,66,Chennai,Tamil Nadu,India,2024-07-21,Premium
+CUST1694,Imran Chopra,Male,36,Patna,Bihar,India,2022-02-07,Premium
+CUST1695,Suresh Patel,Male,25,Mumbai,Maharashtra,India,2022-01-18,New
+CUST1696,Rohan Verma,Female,55,Kochi,Kerala,India,2022-07-26,Premium
+CUST1697,Nisha Sharma,Female,27,Ahmedabad,Gujarat,India,2023-08-14,Premium
+CUST1698,Rahul Menon,Male,49,Mysuru,Karnataka,India,2024-07-04,Premium
+CUST1699,Geeta Chopra,Female,32,Surat,Gujarat,India,2021-05-30,Premium
+CUST1700,Kiran Mishra,Male,43,Mumbai,Maharashtra,India,2023-11-01,Regular
+CUST1701,Asha Kumar,Female,36,Chennai,Tamil Nadu,India,2022-03-13,Premium
+CUST1702,Manoj Pawar,Male,66,Patna,Bihar,India,2023-12-23,Regular
+CUST1703,Mohammed Sharma,Female,59,Pune,Maharashtra,India,2024-10-01,Regular
+CUST1704,Karthik Yadav,Male,38,Patna,Bihar,India,2022-05-15,New
+CUST1705,Rohan Yadav,Male,19,Pune,Maharashtra,India,2023-03-02,Regular
+CUST1706,Vinod Hegde,Female,20,Surat,Gujarat,India,2023-11-20,VIP
+CUST1707,Pranav Kapoor,Male,28,Hyderabad,Telangana,India,2022-10-19,Regular
+CUST1708,Uma Chopra,Female,58,Chandigarh,Chandigarh,India,2021-01-16,Premium
+CUST1709,Uma Nair,Male,65,Kochi,Kerala,India,2021-08-01,Regular
+CUST1710,Uma Pillai,Female,39,Mumbai,Maharashtra,India,2024-11-06,Regular
+CUST1711,Akash Iyer,Female,22,Mumbai,Maharashtra,India,2021-04-22,Regular
+CUST1712,Geeta Hegde,Female,43,Chennai,Tamil Nadu,India,2022-06-14,Regular
+CUST1713,Sneha Singh,Male,59,Bengaluru,Karnataka,India,2023-03-09,Premium
+CUST1714,Seema Menon,Male,40,Mumbai,Maharashtra,India,2024-04-14,Regular
+CUST1715,Vikram Reddy,Female,66,Kolkata,West Bengal,India,2024-11-05,Regular
+CUST1716,Suresh Das,Female,32,Jaipur,Rajasthan,India,2024-09-15,Regular
+CUST1717,Gauri Saxena,Male,37,Jaipur,Rajasthan,India,2024-01-23,Regular
+CUST1718,Prakash Kapoor,Male,25,Surat,Gujarat,India,2021-01-23,Premium
+CUST1719,Akash Sharma,Male,23,Visakhapatnam,Andhra Pradesh,India,2024-05-06,Regular
+CUST1720,Priya Nair,Male,50,Surat,Gujarat,India,2022-03-10,Regular
+CUST1721,Harsh Patel,Female,25,Delhi,Delhi,India,2022-03-29,Premium
+CUST1722,Kiran Kulkarni,Male,53,Visakhapatnam,Andhra Pradesh,India,2021-04-22,VIP
+CUST1723,Swati Desai,Female,24,Chandigarh,Chandigarh,India,2021-05-30,Regular
+CUST1724,Lakshmi Saxena,Female,60,Visakhapatnam,Andhra Pradesh,India,2023-09-25,New
+CUST1725,Mohammed Gupta,Male,38,Pune,Maharashtra,India,2022-08-07,Premium
+CUST1726,Vidya Shetty,Male,27,Ahmedabad,Gujarat,India,2024-06-16,Premium
+CUST1727,Geeta Bose,Female,38,Surat,Gujarat,India,2022-10-10,New
+CUST1728,Nikhil Chandra,Female,41,Chennai,Tamil Nadu,India,2024-12-29,Premium
+CUST1729,Gauri Kulkarni,Female,37,Ahmedabad,Gujarat,India,2023-09-10,Regular
+CUST1730,Vidya Chopra,Female,35,Pune,Maharashtra,India,2021-12-26,Premium
+CUST1731,Gauri Kapoor,Male,22,Chandigarh,Chandigarh,India,2022-02-07,Regular
+CUST1732,Seema Iyer,Male,55,Bengaluru,Karnataka,India,2023-11-05,Premium
+CUST1733,Sanjay Pawar,Male,52,Visakhapatnam,Andhra Pradesh,India,2022-03-12,New
+CUST1734,Aisha Joshi,Male,55,Nagpur,Maharashtra,India,2023-01-20,Regular
+CUST1735,Seema Bhatt,Male,43,Kolkata,West Bengal,India,2021-10-02,Regular
+CUST1736,Riya Mishra,Male,57,Bengaluru,Karnataka,India,2024-09-19,Regular
+CUST1737,Prakash Patel,Female,54,Indore,Madhya Pradesh,India,2021-10-15,Regular
+CUST1738,Neha Bhatt,Female,66,Nagpur,Maharashtra,India,2023-09-18,New
+CUST1739,Vidya Gupta,Female,31,Mumbai,Maharashtra,India,2022-06-26,Regular
+CUST1740,Vinod Yadav,Female,20,Surat,Gujarat,India,2023-03-06,Regular
+CUST1741,Akash Desai,Male,35,Ahmedabad,Gujarat,India,2021-07-31,Premium
+CUST1742,Sunita Rao,Female,42,Visakhapatnam,Andhra Pradesh,India,2024-01-20,Premium
+CUST1743,Riya Bose,Other,32,Mumbai,Maharashtra,India,2023-11-25,Regular
+CUST1744,Vinod Das,Male,56,Surat,Gujarat,India,2022-12-08,Regular
+CUST1745,Aarav Mishra,Female,59,Nagpur,Maharashtra,India,2023-06-20,Regular
+CUST1746,Pooja Nair,Male,70,Nagpur,Maharashtra,India,2022-01-18,Regular
+CUST1747,Farhan Kulkarni,Male,48,Chennai,Tamil Nadu,India,2023-04-30,VIP
+CUST1748,Prakash Joshi,Male,44,Lucknow,Uttar Pradesh,India,2022-03-08,Premium
+CUST1749,Aditi Gupta,Female,58,Mysuru,Karnataka,India,2021-09-19,Premium
+CUST1750,Vikram Verma,Female,29,Visakhapatnam,Andhra Pradesh,India,2021-10-28,Regular
+CUST1751,Vinod Das,Male,64,Patna,Bihar,India,2024-02-29,Premium
+CUST1752,Neha Hegde,Male,48,Kolkata,West Bengal,India,2021-06-25,Regular
+CUST1753,Varun Patel,Male,70,Chennai,Tamil Nadu,India,2023-04-22,Premium
+CUST1754,Uma Patel,Female,61,Patna,Bihar,India,2024-09-12,Regular
+CUST1755,Rajesh Yadav,Female,42,Thiruvananthapuram,Kerala,India,2024-05-06,Premium
+CUST1756,Gauri Reddy,Male,61,Bengaluru,Karnataka,India,2022-02-19,Regular
+CUST1757,Shreya Hegde,Female,57,Nagpur,Maharashtra,India,2024-05-25,Regular
+CUST1758,Jyoti Verma,Female,60,Chandigarh,Chandigarh,India,2023-10-28,Premium
+CUST1759,Gauri Kapoor,Male,67,Patna,Bihar,India,2024-01-10,VIP
+CUST1760,Prakash Desai,Male,62,Kochi,Kerala,India,2023-12-06,Regular
+CUST1761,Vinod Pillai,Female,55,Chennai,Tamil Nadu,India,2023-09-15,Premium
+CUST1762,Sunita Yadav,Female,67,Visakhapatnam,Andhra Pradesh,India,2021-07-20,Regular
+CUST1763,Meera Yadav,Male,34,Mumbai,Maharashtra,India,2022-08-04,Premium
+CUST1764,Lakshmi Sharma,Male,42,Bengaluru,Karnataka,India,2024-03-29,Regular
+CUST1765,Mohammed Nair,Female,59,Ahmedabad,Gujarat,India,2023-04-18,Regular
+CUST1766,Imran Rao,Female,35,Coimbatore,Tamil Nadu,India,2024-01-03,Regular
+CUST1767,Prakash Das,Male,29,Hyderabad,Telangana,India,2023-04-27,Premium
+CUST1768,Riya Chopra,Female,40,Chandigarh,Chandigarh,India,2023-09-18,Regular
+CUST1769,Uma Malhotra,Male,65,Jaipur,Rajasthan,India,2021-10-10,VIP
+CUST1770,Meera Shetty,Female,39,Delhi,Delhi,India,2021-07-25,Regular
+CUST1771,Deepak Menon,Male,69,Mysuru,Karnataka,India,2021-11-26,Regular
+CUST1772,Asha Hegde,Female,22,Nagpur,Maharashtra,India,2023-08-24,New
+CUST1773,Nisha Gupta,Male,43,Surat,Gujarat,India,2021-06-13,Premium
+CUST1774,Karthik Desai,Male,67,Indore,Madhya Pradesh,India,2022-08-10,Premium
+CUST1775,Kiran Desai,Male,69,Lucknow,Uttar Pradesh,India,2023-06-19,Regular
+CUST1776,Vinod Mehta,Male,62,Hyderabad,Telangana,India,2021-03-10,Premium
+CUST1777,Meera Menon,Female,18,Delhi,Delhi,India,2024-10-12,Regular
+CUST1778,Kavya Iyer,Female,55,Coimbatore,Tamil Nadu,India,2023-03-30,Regular
+CUST1779,Lakshmi Mishra,Female,36,Bengaluru,Karnataka,India,2024-12-12,Regular
+CUST1780,Seema Hegde,Male,35,Chandigarh,Chandigarh,India,2024-04-08,Regular
+CUST1781,Meera Menon,Male,34,Hyderabad,Telangana,India,2023-07-21,New
+CUST1782,Kiran Pillai,Male,39,Indore,Madhya Pradesh,India,2021-08-07,Premium
+CUST1783,Farhan Chandra,Male,54,Indore,Madhya Pradesh,India,2022-06-12,VIP
+CUST1784,Nisha Malhotra,Male,66,Thiruvananthapuram,Kerala,India,2023-02-12,Premium
+CUST1785,Rajesh Pawar,Male,19,Thiruvananthapuram,Kerala,India,2024-10-27,Regular
+CUST1786,Varun Reddy,Male,32,Coimbatore,Tamil Nadu,India,2021-05-19,Regular
+CUST1787,Prakash Malhotra,Female,52,Chennai,Tamil Nadu,India,2022-10-09,Regular
+CUST1788,Aarav Malhotra,Female,65,Coimbatore,Tamil Nadu,India,2022-05-24,Regular
+CUST1789,Rajesh Iyer,Female,54,Chandigarh,Chandigarh,India,2022-01-01,Regular
+CUST1790,Pooja Patel,Female,33,Hyderabad,Telangana,India,2023-10-19,Premium
+CUST1791,Nisha Nair,Male,40,Chennai,Tamil Nadu,India,2022-02-20,VIP
+CUST1792,Harsh Pawar,Male,60,Pune,Maharashtra,India,2021-09-03,New
+CUST1793,Vidya Menon,Male,41,Bengaluru,Karnataka,India,2024-01-14,New
+CUST1794,Karthik Singh,Male,66,Lucknow,Uttar Pradesh,India,2024-03-22,VIP
+CUST1795,Vikram Rao,Female,51,Jaipur,Rajasthan,India,2022-03-31,Premium
+CUST1796,Sneha Joshi,Female,61,Chandigarh,Chandigarh,India,2021-03-08,Regular
+CUST1797,Uma Patel,Female,62,Thiruvananthapuram,Kerala,India,2021-09-04,Premium
+CUST1798,Aarav Sharma,Female,57,Hyderabad,Telangana,India,2023-02-17,Premium
+CUST1799,Nisha Patel,Female,57,Chandigarh,Chandigarh,India,2022-06-23,Regular
+CUST1800,Rajesh Kumar,Female,66,Delhi,Delhi,India,2023-10-19,Regular
+CUST1801,Riya Kumar,Male,54,Jaipur,Rajasthan,India,2022-07-27,Regular
+CUST1802,Prakash Gupta,Male,42,Pune,Maharashtra,India,2022-07-07,VIP
+CUST1803,Lakshmi Khan,Female,49,Nagpur,Maharashtra,India,2023-08-27,VIP
+CUST1804,Gauri Kapoor,Male,37,Indore,Madhya Pradesh,India,2023-12-30,Premium
+CUST1805,Nisha Chopra,Male,21,Visakhapatnam,Andhra Pradesh,India,2021-04-08,Regular
+CUST1806,Manoj Hegde,Female,65,Coimbatore,Tamil Nadu,India,2023-09-03,VIP
+CUST1807,Rajesh Rao,Male,34,Surat,Gujarat,India,2023-01-08,Premium
+CUST1808,Ramesh Sharma,Male,56,Kochi,Kerala,India,2021-09-06,Regular
+CUST1809,Lakshmi Bose,Female,67,Visakhapatnam,Andhra Pradesh,India,2024-08-23,Premium
+CUST1810,Pranav Kumar,Male,46,Ahmedabad,Gujarat,India,2024-10-10,Regular
+CUST1811,Asha Das,Male,28,Patna,Bihar,India,2022-08-10,Regular
+CUST1812,Leena Chandra,Male,22,Ahmedabad,Gujarat,India,2023-05-14,Premium
+CUST1813,Asha Patel,Male,63,Ahmedabad,Gujarat,India,2022-04-13,Regular
+CUST1814,Pooja Menon,Male,41,Jaipur,Rajasthan,India,2022-07-10,VIP
+CUST1815,Sunita Bose,Female,19,Indore,Madhya Pradesh,India,2023-07-12,Regular
+CUST1816,Gauri Saxena,Male,65,Chennai,Tamil Nadu,India,2024-09-17,Regular
+CUST1817,Asha Nair,Female,48,Delhi,Delhi,India,2023-03-25,Regular
+CUST1818,Deepak Verma,Other,24,Bengaluru,Karnataka,India,2023-03-25,Regular
+CUST1819,Nisha Menon,Male,37,Nagpur,Maharashtra,India,2021-06-22,Premium
+CUST1820,Meera Gupta,Female,28,Kolkata,West Bengal,India,2023-06-27,Premium
+CUST1821,Aditi Verma,Female,52,Surat,Gujarat,India,2022-10-29,VIP
+CUST1822,Pooja Chopra,Male,29,Thiruvananthapuram,Kerala,India,2021-10-04,New
+CUST1823,Imran Menon,Male,45,Thiruvananthapuram,Kerala,India,2024-07-16,Premium
+CUST1824,Vinod Desai,Male,32,Chandigarh,Chandigarh,India,2022-09-27,New
+CUST1825,Asha Shetty,Female,18,Kolkata,West Bengal,India,2023-01-20,Regular
+CUST1826,Aarav Mishra,Male,62,Nagpur,Maharashtra,India,2022-12-06,Regular
+CUST1827,Vidya Pawar,Female,36,Lucknow,Uttar Pradesh,India,2022-09-06,Regular
+CUST1828,Jyoti Gupta,Female,53,Bengaluru,Karnataka,India,2024-01-28,Regular
+CUST1829,Sneha Das,Male,42,Chennai,Tamil Nadu,India,2021-12-01,Premium
+CUST1830,Meera Rao,Male,69,Mumbai,Maharashtra,India,2023-05-15,Premium
+CUST1831,Karthik Chandra,Male,35,Coimbatore,Tamil Nadu,India,2022-08-07,Premium
+CUST1832,Shreya Nair,Female,47,Mumbai,Maharashtra,India,2022-01-09,Regular
+CUST1833,Karthik Shetty,Female,19,Coimbatore,Tamil Nadu,India,2024-12-05,Premium
+CUST1834,Harsh Verma,Female,35,Chandigarh,Chandigarh,India,2021-02-15,Regular
+CUST1835,Gauri Malhotra,Female,49,Thiruvananthapuram,Kerala,India,2021-01-17,Regular
+CUST1836,Manoj Singh,Male,41,Kochi,Kerala,India,2022-10-01,Premium
+CUST1837,Swati Malhotra,Male,27,Mysuru,Karnataka,India,2022-11-08,Regular
+CUST1838,Ananya Rao,Female,34,Jaipur,Rajasthan,India,2021-05-27,Regular
+CUST1839,Rohan Hegde,Male,42,Bengaluru,Karnataka,India,2021-09-07,New
+CUST1840,Uma Shetty,Male,24,Chennai,Tamil Nadu,India,2021-03-10,Regular
+CUST1841,Vinod Kulkarni,Male,38,Hyderabad,Telangana,India,2023-08-27,Regular
+CUST1842,Kavya Desai,Female,58,Mysuru,Karnataka,India,2024-01-31,Regular
+CUST1843,Priya Nair,Female,25,Surat,Gujarat,India,2021-04-17,VIP
+CUST1844,Nikhil Desai,Male,55,Kochi,Kerala,India,2022-10-27,Regular
+CUST1845,Farhan Das,Male,62,Chennai,Tamil Nadu,India,2021-01-19,New
+CUST1846,Varun Malhotra,Female,28,Patna,Bihar,India,2021-11-14,Regular
+CUST1847,Vidya Iyer,Other,58,Patna,Bihar,India,2022-11-25,New
+CUST1848,Ananya Verma,Male,24,Surat,Gujarat,India,2024-08-13,Regular
+CUST1849,Gauri Joshi,Male,66,Chennai,Tamil Nadu,India,2022-10-11,New
+CUST1850,Ramesh Chandra,Female,64,Thiruvananthapuram,Kerala,India,2022-01-31,Regular
+CUST1851,Gauri Rao,Male,52,Mysuru,Karnataka,India,2023-09-21,Premium
+CUST1852,Rekha Joshi,Female,64,Hyderabad,Telangana,India,2024-03-06,Regular
+CUST1853,Swati Rao,Male,46,Patna,Bihar,India,2024-02-10,Regular
+CUST1854,Pranav Hegde,Female,58,Coimbatore,Tamil Nadu,India,2024-01-15,Regular
+CUST1855,Vikram Das,Female,57,Delhi,Delhi,India,2021-02-08,Premium
+CUST1856,Nikhil Singh,Male,30,Mumbai,Maharashtra,India,2024-09-10,New
+CUST1857,Vinod Kulkarni,Female,44,Lucknow,Uttar Pradesh,India,2024-02-04,Regular
+CUST1858,Mohammed Singh,Female,26,Pune,Maharashtra,India,2021-07-17,Regular
+CUST1859,Kiran Bhatt,Female,20,Mysuru,Karnataka,India,2022-02-18,Regular
+CUST1860,Geeta Desai,Male,55,Jaipur,Rajasthan,India,2024-09-09,Regular
+CUST1861,Nisha Verma,Female,31,Surat,Gujarat,India,2022-03-29,Premium
+CUST1862,Mohammed Joshi,Female,53,Mumbai,Maharashtra,India,2023-08-17,VIP
+CUST1863,Sunita Kapoor,Female,57,Kochi,Kerala,India,2023-01-26,Premium
+CUST1864,Pooja Mishra,Female,31,Mysuru,Karnataka,India,2021-05-25,VIP
+CUST1865,Vinod Reddy,Female,51,Pune,Maharashtra,India,2022-04-19,Regular
+CUST1866,Neha Gupta,Male,53,Visakhapatnam,Andhra Pradesh,India,2024-07-04,New
+CUST1867,Shreya Saxena,Male,62,Pune,Maharashtra,India,2024-07-31,Premium
+CUST1868,Neha Pillai,Male,50,Pune,Maharashtra,India,2021-12-08,Premium
+CUST1869,Rajesh Kulkarni,Female,40,Delhi,Delhi,India,2023-12-30,New
+CUST1870,Rahul Chopra,Male,70,Ahmedabad,Gujarat,India,2023-02-01,Regular
+CUST1871,Seema Singh,Female,67,Patna,Bihar,India,2022-05-08,Premium
+CUST1872,Deepak Yadav,Female,43,Coimbatore,Tamil Nadu,India,2023-01-08,New
+CUST1873,Aarav Saxena,Male,37,Mysuru,Karnataka,India,2022-08-06,Premium
+CUST1874,Aarav Mehta,Female,70,Chennai,Tamil Nadu,India,2022-03-16,VIP
+CUST1875,Rekha Hegde,Male,54,Coimbatore,Tamil Nadu,India,2024-02-08,Regular
+CUST1876,Harsh Reddy,Female,41,Mysuru,Karnataka,India,2023-08-01,Regular
+CUST1877,Imran Gupta,Female,43,Chennai,Tamil Nadu,India,2022-06-09,VIP
+CUST1878,Geeta Yadav,Male,29,Hyderabad,Telangana,India,2021-06-08,Premium
+CUST1879,Vidya Hegde,Female,64,Visakhapatnam,Andhra Pradesh,India,2021-07-15,Premium
+CUST1880,Geeta Das,Female,70,Mumbai,Maharashtra,India,2021-04-25,New
+CUST1881,Sneha Pillai,Male,18,Pune,Maharashtra,India,2022-04-10,Premium
+CUST1882,Leena Pawar,Female,52,Jaipur,Rajasthan,India,2021-04-21,Regular
+CUST1883,Geeta Khan,Female,61,Ahmedabad,Gujarat,India,2023-10-26,Premium
+CUST1884,Seema Das,Female,45,Thiruvananthapuram,Kerala,India,2024-05-03,Premium
+CUST1885,Pranav Chandra,Female,54,Jaipur,Rajasthan,India,2021-10-31,Regular
+CUST1886,Sunita Verma,Female,45,Chandigarh,Chandigarh,India,2023-03-29,Regular
+CUST1887,Uma Malhotra,Female,43,Nagpur,Maharashtra,India,2021-10-04,Regular
+CUST1888,Mohammed Bose,Male,33,Hyderabad,Telangana,India,2024-02-24,Premium
+CUST1889,Nikhil Iyer,Male,23,Coimbatore,Tamil Nadu,India,2023-05-31,Regular
+CUST1890,Farhan Kulkarni,Female,40,Kochi,Kerala,India,2023-05-18,Regular
+CUST1891,Jyoti Desai,Female,70,Bengaluru,Karnataka,India,2022-09-17,Regular
+CUST1892,Suresh Menon,Male,30,Nagpur,Maharashtra,India,2023-06-22,Regular
+CUST1893,Prakash Kumar,Female,57,Nagpur,Maharashtra,India,2021-06-25,Regular
+CUST1894,Harsh Bhatt,Male,37,Kolkata,West Bengal,India,2021-01-29,Regular
+CUST1895,Suresh Joshi,Male,31,Bengaluru,Karnataka,India,2022-11-11,Regular
+CUST1896,Aisha Mishra,Male,27,Coimbatore,Tamil Nadu,India,2024-01-29,Regular
+CUST1897,Rekha Malhotra,Male,20,Bengaluru,Karnataka,India,2023-02-11,Premium
+CUST1898,Nisha Patel,Male,35,Mysuru,Karnataka,India,2022-08-05,Regular
+CUST1899,Ananya Shetty,Female,60,Bengaluru,Karnataka,India,2021-05-17,Regular
+CUST1900,Riya Bhatt,Male,42,Pune,Maharashtra,India,2021-02-09,Regular
+CUST1901,Meera Das,Female,56,Indore,Madhya Pradesh,India,2024-12-24,Regular
+CUST1902,Aisha Iyer,Female,63,Delhi,Delhi,India,2022-02-12,Regular
+CUST1903,Aditi Verma,Male,65,Chennai,Tamil Nadu,India,2023-12-21,Regular
+CUST1904,Kavya Sharma,Male,33,Surat,Gujarat,India,2024-11-02,Regular
+CUST1905,Vikram Rao,Female,70,Mysuru,Karnataka,India,2024-07-05,Regular
+CUST1906,Aditi Chopra,Male,60,Coimbatore,Tamil Nadu,India,2022-04-07,Regular
+CUST1907,Gauri Iyer,Male,58,Jaipur,Rajasthan,India,2023-12-03,New
+CUST1908,Prakash Gupta,Female,37,Kochi,Kerala,India,2022-05-08,Premium
+CUST1909,Jyoti Singh,Male,55,Thiruvananthapuram,Kerala,India,2024-01-16,Regular
+CUST1910,Aisha Kulkarni,Male,51,Hyderabad,Telangana,India,2021-10-10,Regular
+CUST1911,Gauri Pillai,Male,38,Nagpur,Maharashtra,India,2024-09-05,New
+CUST1912,Arjun Chopra,Male,27,Chandigarh,Chandigarh,India,2021-08-31,Regular
+CUST1913,Seema Sharma,Female,65,Ahmedabad,Gujarat,India,2023-04-28,New
+CUST1914,Leena Yadav,Female,29,Coimbatore,Tamil Nadu,India,2021-11-08,Premium
+CUST1915,Aditi Pawar,Male,32,Patna,Bihar,India,2024-06-17,Regular
+CUST1916,Jyoti Gupta,Female,67,Chennai,Tamil Nadu,India,2024-11-08,Regular
+CUST1917,Varun Khan,Male,29,Indore,Madhya Pradesh,India,2024-05-23,Regular
+CUST1918,Rohan Joshi,Female,44,Lucknow,Uttar Pradesh,India,2021-10-09,Regular
+CUST1919,Tarun Sharma,Male,30,Coimbatore,Tamil Nadu,India,2023-04-26,Regular
+CUST1920,Tarun Nair,Other,57,Mumbai,Maharashtra,India,2021-12-29,New
+CUST1921,Vidya Malhotra,Female,67,Ahmedabad,Gujarat,India,2023-07-27,VIP
+CUST1922,Akash Menon,Male,54,Jaipur,Rajasthan,India,2022-10-03,Regular
+CUST1923,Jyoti Chopra,Male,51,Indore,Madhya Pradesh,India,2024-08-06,VIP
+CUST1924,Divya Shetty,Female,52,Thiruvananthapuram,Kerala,India,2021-03-28,VIP
+CUST1925,Sanjay Saxena,Male,21,Mysuru,Karnataka,India,2024-02-17,Regular
+CUST1926,Lakshmi Mehta,Male,36,Thiruvananthapuram,Kerala,India,2023-03-27,VIP
+CUST1927,Swati Patel,Female,51,Kochi,Kerala,India,2022-08-26,Premium
+CUST1928,Harsh Shetty,Female,67,Thiruvananthapuram,Kerala,India,2021-07-05,Premium
+CUST1929,Imran Kapoor,Female,19,Chandigarh,Chandigarh,India,2021-10-05,Regular
+CUST1930,Kiran Shetty,Male,23,Visakhapatnam,Andhra Pradesh,India,2024-12-30,VIP
+CUST1931,Nisha Singh,Male,58,Delhi,Delhi,India,2021-09-11,Regular
+CUST1932,Riya Iyer,Male,50,Indore,Madhya Pradesh,India,2024-12-19,Regular
+CUST1933,Karthik Patel,Male,39,Jaipur,Rajasthan,India,2024-02-02,Regular
+CUST1934,Geeta Bhatt,Female,63,Nagpur,Maharashtra,India,2021-11-29,VIP
+CUST1935,Ananya Pillai,Male,36,Kolkata,West Bengal,India,2022-09-26,Premium
+CUST1936,Leena Patel,Female,66,Pune,Maharashtra,India,2021-09-27,New
+CUST1937,Nisha Sharma,Male,18,Thiruvananthapuram,Kerala,India,2023-10-17,VIP
+CUST1938,Jyoti Kapoor,Male,47,Lucknow,Uttar Pradesh,India,2022-05-03,Regular
+CUST1939,Shreya Shetty,Female,53,Mumbai,Maharashtra,India,2024-05-16,Premium
+CUST1940,Pooja Menon,Female,59,Chandigarh,Chandigarh,India,2022-03-02,Regular
+CUST1941,Ramesh Verma,Male,37,Nagpur,Maharashtra,India,2021-03-08,Premium
+CUST1942,Rajesh Yadav,Other,28,Mumbai,Maharashtra,India,2021-04-11,Regular
+CUST1943,Prakash Mehta,Male,68,Patna,Bihar,India,2024-09-15,Premium
+CUST1944,Deepak Patel,Female,67,Thiruvananthapuram,Kerala,India,2024-03-31,Regular
+CUST1945,Priya Singh,Male,53,Surat,Gujarat,India,2023-02-16,VIP
+CUST1946,Arjun Mehta,Male,39,Lucknow,Uttar Pradesh,India,2021-10-03,Regular
+CUST1947,Vinod Pillai,Male,24,Indore,Madhya Pradesh,India,2022-03-06,Premium
+CUST1948,Geeta Saxena,Male,68,Indore,Madhya Pradesh,India,2021-06-29,Regular
+CUST1949,Sachin Mehta,Female,54,Kochi,Kerala,India,2024-05-31,VIP
+CUST1950,Karthik Kumar,Male,58,Nagpur,Maharashtra,India,2024-06-12,Premium
+CUST1951,Vidya Joshi,Female,30,Delhi,Delhi,India,2024-06-02,Regular
+CUST1952,Aarav Reddy,Female,31,Bengaluru,Karnataka,India,2023-08-11,Premium
+CUST1953,Karthik Pillai,Male,58,Kochi,Kerala,India,2021-04-04,Regular
+CUST1954,Manoj Sharma,Male,37,Hyderabad,Telangana,India,2024-11-14,Regular
+CUST1955,Priya Mishra,Female,39,Chandigarh,Chandigarh,India,2022-10-26,Premium
+CUST1956,Rajesh Das,Male,30,Visakhapatnam,Andhra Pradesh,India,2024-06-15,New
+CUST1957,Rajesh Hegde,Female,20,Ahmedabad,Gujarat,India,2024-10-09,Regular
+CUST1958,Mohammed Khan,Male,52,Lucknow,Uttar Pradesh,India,2021-11-15,Premium
+CUST1959,Rajesh Shetty,Female,64,Kochi,Kerala,India,2021-04-25,VIP
+CUST1960,Prakash Singh,Male,39,Chandigarh,Chandigarh,India,2024-01-03,Regular
+CUST1961,Ramesh Iyer,Female,42,Nagpur,Maharashtra,India,2022-07-29,VIP
+CUST1962,Leena Chopra,Female,25,Delhi,Delhi,India,2024-03-15,Premium
+CUST1963,Tarun Mehta,Female,49,Ahmedabad,Gujarat,India,2024-12-24,Regular
+CUST1964,Nikhil Kumar,Female,25,Thiruvananthapuram,Kerala,India,2022-09-12,Regular
+CUST1965,Riya Chandra,Female,19,Mysuru,Karnataka,India,2022-02-18,New
+CUST1966,Varun Kapoor,Male,64,Indore,Madhya Pradesh,India,2021-11-12,Regular
+CUST1967,Vinod Mehta,Female,51,Ahmedabad,Gujarat,India,2021-10-21,Premium
+CUST1968,Prakash Khan,Male,51,Hyderabad,Telangana,India,2021-03-16,Regular
+CUST1969,Farhan Sharma,Male,23,Kolkata,West Bengal,India,2021-04-01,Premium
+CUST1970,Rajesh Shetty,Male,37,Mysuru,Karnataka,India,2021-07-31,Regular
+CUST1971,Aditi Bose,Female,30,Kolkata,West Bengal,India,2024-08-01,VIP
+CUST1972,Pranav Rao,Male,35,Chandigarh,Chandigarh,India,2022-10-16,Premium
+CUST1973,Harsh Patel,Male,50,Coimbatore,Tamil Nadu,India,2021-08-23,Regular
+CUST1974,Divya Nair,Female,63,Chandigarh,Chandigarh,India,2022-12-19,Regular
+CUST1975,Pranav Bose,Male,39,Chennai,Tamil Nadu,India,2021-12-17,Regular
+CUST1976,Aisha Shetty,Male,21,Mysuru,Karnataka,India,2021-09-24,Regular
+CUST1977,Divya Das,Female,56,Mysuru,Karnataka,India,2021-06-26,Regular
+CUST1978,Imran Desai,Female,30,Thiruvananthapuram,Kerala,India,2024-06-16,Regular
+CUST1979,Sachin Pawar,Male,47,Chandigarh,Chandigarh,India,2021-06-10,New
+CUST1980,Geeta Khan,Female,61,Mumbai,Maharashtra,India,2024-12-01,Regular
+CUST1981,Mohammed Malhotra,Female,57,Thiruvananthapuram,Kerala,India,2023-08-22,Regular
+CUST1982,Nisha Yadav,Male,39,Surat,Gujarat,India,2023-03-14,Regular
+CUST1983,Rahul Shetty,Female,48,Lucknow,Uttar Pradesh,India,2021-03-03,Regular
+CUST1984,Swati Bhatt,Male,26,Delhi,Delhi,India,2022-08-02,Premium
+CUST1985,Vikram Reddy,Male,68,Jaipur,Rajasthan,India,2021-08-08,Regular
+CUST1986,Priya Chopra,Female,33,Thiruvananthapuram,Kerala,India,2023-04-01,Premium
+CUST1987,Deepak Patel,Female,62,Lucknow,Uttar Pradesh,India,2023-02-26,Regular
+CUST1988,Imran Pillai,Male,33,Kochi,Kerala,India,2024-03-07,Premium
+CUST1989,Kiran Kulkarni,Male,55,Mumbai,Maharashtra,India,2024-12-28,Premium
+CUST1990,Jyoti Shetty,Female,37,Ahmedabad,Gujarat,India,2024-02-11,Regular
+CUST1991,Sanjay Iyer,Male,70,Patna,Bihar,India,2021-08-11,Premium
+CUST1992,Rohan Singh,Female,70,Lucknow,Uttar Pradesh,India,2024-08-13,Premium
+CUST1993,Gauri Kapoor,Male,60,Visakhapatnam,Andhra Pradesh,India,2024-07-26,VIP
+CUST1994,Harsh Shetty,Male,30,Chandigarh,Chandigarh,India,2022-08-20,Regular
+CUST1995,Manoj Kulkarni,Male,37,Ahmedabad,Gujarat,India,2022-09-06,Premium
+CUST1996,Sneha Malhotra,Male,50,Surat,Gujarat,India,2021-07-02,Premium
+CUST1997,Sanjay Bhatt,Male,21,Nagpur,Maharashtra,India,2022-08-26,Regular
+CUST1998,Aarav Malhotra,Female,19,Chandigarh,Chandigarh,India,2023-01-06,Regular
+CUST1999,Nikhil Pillai,Male,43,Visakhapatnam,Andhra Pradesh,India,2023-03-19,Premium
+CUST2000,Rohan Pillai,Female,30,Chandigarh,Chandigarh,India,2022-03-09,Premium

@@ -1,0 +1,21 @@
+StoreID,StoreName,City,State,StoreType
+STORE01,RetailHub Bengaluru North,Bengaluru,Karnataka,Outlet
+STORE02,RetailHub Mysuru South,Mysuru,Karnataka,Standard
+STORE03,RetailHub Mumbai East,Mumbai,Maharashtra,Outlet
+STORE04,RetailHub Pune West,Pune,Maharashtra,Standard
+STORE05,RetailHub Nagpur Central,Nagpur,Maharashtra,Standard
+STORE06,RetailHub Delhi North,Delhi,Delhi,Standard
+STORE07,RetailHub Hyderabad South,Hyderabad,Telangana,Standard
+STORE08,RetailHub Chennai East,Chennai,Tamil Nadu,Flagship
+STORE09,RetailHub Coimbatore West,Coimbatore,Tamil Nadu,Flagship
+STORE10,RetailHub Kolkata Central,Kolkata,West Bengal,Flagship
+STORE11,RetailHub Ahmedabad North,Ahmedabad,Gujarat,Standard
+STORE12,RetailHub Surat South,Surat,Gujarat,Outlet
+STORE13,RetailHub Jaipur East,Jaipur,Rajasthan,Outlet
+STORE14,RetailHub Kochi West,Kochi,Kerala,Standard
+STORE15,RetailHub Thiruvananthapuram Central,Thiruvananthapuram,Kerala,Flagship
+STORE16,RetailHub Lucknow North,Lucknow,Uttar Pradesh,Standard
+STORE17,RetailHub Indore South,Indore,Madhya Pradesh,Outlet
+STORE18,RetailHub Chandigarh East,Chandigarh,Chandigarh,Outlet
+STORE19,RetailHub Visakhapatnam West,Visakhapatnam,Andhra Pradesh,Outlet
+STORE20,RetailHub Patna Central,Patna,Bihar,Online
